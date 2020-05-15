@@ -13,6 +13,10 @@
 
 ## Icon Adapter für den ioBroker.vis Adapter
 
+Ein reiner Icon Adapter für die Visualisierung.
+
+![Beispiel](admin/Screen_001.png)
+
 
 ## Changelog / Änderungsprotokoll
 
