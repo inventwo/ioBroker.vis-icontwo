@@ -1,4 +1,4 @@
-![Logo](admin/i2.png)
+![Logo](admin/i2_150.png)
 # ioBroker.vis-icontwo
 
 [![NPM version](http://img.shields.io/npm/v/iobroker.template.svg)](https://www.npmjs.com/package/iobroker.template)
