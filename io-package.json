@@ -53,7 +53,7 @@
         "license": "MIT",
         "platform": "Javascript/Node.js",
         "main": "main.js",
-        "icon": "i2.png",
+        "icon": "i2_150.png",
         "enabled": true,
         "extIcon": "https://raw.githubusercontent.com/Author/ioBroker.template/master/admin/template.png",
         "readme": "https://github.com/Author/ioBroker.template/blob/master/README.md",
