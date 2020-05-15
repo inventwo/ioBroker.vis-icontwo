@@ -24,9 +24,7 @@
 Urheberrechte (c) 2020 [jkvarel](https://github.com/jkvarel) und [skvarel](https://github.com/skvarel) von [inventwo](https://github.com/inventwo)
 
 
-MIT License
-
-Copyright (c) 2020 Author <author@mail.com>
+MIT License (nur in englisch / englisch only)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,4 +46,4 @@ SOFTWARE.
 
 ---
 
-Several Icons from Icons8 https://icons8.com/
+Some Icons from Icons8 https://icons8.com/
