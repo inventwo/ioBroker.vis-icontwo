@@ -15,6 +15,7 @@
 ## template adapter for ioBroker
 
 Template for adapter development
+njnjn
 
 ## Developer manual
 This section is intended for the developer. It can be deleted later
