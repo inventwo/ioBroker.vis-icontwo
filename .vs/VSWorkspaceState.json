@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\widgets",
     "\\widgets\\vis-icontwo"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\io-package.json",
   "PreviewInSolutionExplorer": false
 }

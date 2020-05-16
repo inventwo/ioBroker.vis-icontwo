@@ -1,13 +1,13 @@
 {
   "name": "iobroker.vis-icontwo",
   "version": "0.0.1",
-  "description": "inventwo Icon-Set for ioBoker.vis",
-  "author": "skvarel <skvarel@inventwo.com>",
+  "description": "inventwo Icon-Set",
+  "author": "jkvarel <jkvarel@inventwo.com>",
   "contributors": [
     "jkvarel <jkvarel@inventwo.com>",
     "skvarel <skvarel@inventwo.com>"
   ],
-  "homepage": "https://github.com/inventwo/ioBroker.vis-icontwo",
+  "homepage": "https://github.com/inventwo/ioBroker.vis-inventwo",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -15,12 +15,11 @@
     "Smart Home",
     "home automation",
     "inventwo",
-    "icons",
     "vis"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inventwo/ioBroker.vis-icontwo.git"
+    "url": "git+https://github.com/inventwo/ioBroker.vis-inventwo.git"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.2.1",
@@ -57,7 +56,7 @@
     "lint": "eslint"
   },
   "bugs": {
-    "url": "https://github.com/inventwo/ioBroker.vis-icontwo/issues"
+    "url": "https://github.com/inventwo/ioBroker.vis-inventwo/issues"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
