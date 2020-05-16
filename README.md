@@ -35,6 +35,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.1.0
+
+• (skvarel) - Erstveröffentlichung
+
 ### 0.0.1
 • (skvarel) - Die Idee ist geboren
 
