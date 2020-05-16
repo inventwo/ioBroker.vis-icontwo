@@ -17,6 +17,20 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script type="text/javascript" src="words.js"></script>
 
+    <style>
+        .m .col .select-wrapper + label {
+            top: -26px;
+        }
+
+        .m span {
+            font-size: 0.9em;
+        }
+
+        #Werte label {
+            color: #000;
+        }
+    </style>
+
     <script type="text/javascript">
         // This will be called by the admin adapter when the settings page loads
         function load(settings, onChange) {
@@ -65,29 +79,47 @@
 
     <div class="m adapter-container">
 
-        <div class="row">
-            <div class="col s12 m4 l2">
-                <img src="template.png" class="logo">
-            </div>
-        </div>
+        <img class="materialboxed" width="100" src="i2_150.png">
 
         <!-- Put your content here -->
 
-        <!-- For example columns with settings: -->
         <div class="row">
-            <div class="col s6 input-field">
-                <input type="checkbox" class="value" id="option1" />
-                <label for="option1" class="translate">option1</label>
+            <div class="col s12">
+                <br>
+                <p style="font-size:24px; color:#555"> inventwo Icon-Set für die Visualisierung</p>
+                <hr style="background: #2196f3; border: none; color: #2196f3; height: 2px; width: 100%;"></hr>
             </div>
+        </div>
 
-            <div class="col s6 input-field">
-                <input type="text" class="value" id="option2" />
-                <label for="option2" class="translate">option2</label>
+        <!-- Inhalt -->
+
+        <div class="row">
+            <div class="col s12">
+
+                <img class="materialboxed" width="640" src="Screen_001.png">
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col s12">
+                <hr style="background: #2196f3; border: none; color: #2196f3; height: 2px; width: 100%;"></hr>
+                <p style="font-size:16px; color:#555">
+                <p style="font-size:14px; color:#666">
+                    Viel Spaß mit unserem Adapter ....
+                    <br>MfG, <a href="https://github.com/jkvarel" target="_blank">jkvarel</a> & <a href="https://github.com/skvarel" target="_blank">skvarel</a> von <a href="https://github.com/inventwo" target="_blank">inventwo</a>
+                </p>
+            </div>
+            <div class="col s3 offset-s9">
+                <p style="font-size:16px; color:#555; text-align: center">
+                    <br>
+                    <a href="https://github.com/inventwo/ioBroker.vis-inventwo/wiki" target="_blank" class="btn-floating btn-large pulse"><i class="material-icons">help_outline</i></a>
+                    <br><br>Anleitung • Hilfe
+                </p>
             </div>
         </div>
 
     </div>
-
 </body>
 
 </html>
