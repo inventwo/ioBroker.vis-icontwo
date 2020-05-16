@@ -1,83 +1,84 @@
 {
-	"common": {
-		"name": "vis-icontwo",
-		"version": "0.0.1",
-		"news": {
-            "0.0.1": {
-                "en": "The idea is born",
-                "de": "Die Idee ist geboren",
-                "ru": "Идея рождается",
-                "pt": "A ideia nasce",
-                "nl": "Het idee is geboren",
-                "fr": "L'idée est née",
-                "it": "L'idea è nata",
-                "es": "La idea nace",
-                "pl": "Pomysł się rodzi",
-                "zh-cn": "这个想法诞生了"
-            }
-		},
-		"title": "inventwo Icon-Set",
+  "common": {
+    "name": "vis-icontwo",
+    "version": "0.0.1",
+    "news": {
+      "0.0.1": {
+        "en": "The idea is born",
+        "de": "Die Idee ist geboren",
+        "ru": "Идея рождается",
+        "pt": "A ideia nasce",
+        "nl": "Het idee is geboren",
+        "fr": "L'idée est née",
+        "it": "L'idea è nata",
+        "es": "La idea nace",
+        "pl": "Pomysł się rodzi",
+        "zh-cn": "这个想法诞生了"
+      }
+    },
+    "title": "inventwo Icon-Set",
     "titleLang": {
-            "en": "inventwo Icon-Set",
-            "de": "inventwo Icon-Set",
-            "ru": "изобретен набор иконок",
-            "pt": "inventwo Icon-Set",
-            "nl": "inventwo Icon-Set",
-            "fr": "Inventwo Icon-Set",
-            "it": "inventwo Icon-Set",
-            "es": "inventwo Icon-Set",
-            "pl": "Zestaw ikon",
-            "zh-cn": "inventwo图标集"
+      "en": "inventwo Icon-Set",
+      "de": "inventwo Icon-Set",
+      "ru": "изобретен набор иконок",
+      "pt": "inventwo Icon-Set",
+      "nl": "inventwo Icon-Set",
+      "fr": "Inventwo Icon-Set",
+      "it": "inventwo Icon-Set",
+      "es": "inventwo Icon-Set",
+      "pl": "Zestaw ikon",
+      "zh-cn": "inventwo图标集"
     },
     "desc": {
-            "en": "inventwo Icon-Set for ioBroker.vis",
-            "de": "inventwo Icon-Set für ioBroker.vis",
-            "ru": "Изобретен набор иконок для ioBroker.vis",
-            "pt": "inventwo Icon-Set para ioBroker.vis",
-            "nl": "inventwo Icon-Set voor ioBroker.vis",
-            "fr": "Inventwo Icon-Set pour ioBroker.vis",
-            "it": "inventwo Icon-Set per ioBroker.vis",
-            "es": "inventwo Icon-Set para ioBroker.vis",
-            "pl": "wynalazki zestaw ikon dla ioBroker.vis",
-            "zh-cn": "ioBroker.vis的inventwo图标集"
+      "en": "inventwo Icon-Set for ioBroker.vis",
+      "de": "inventwo Icon-Set für ioBroker.vis",
+      "ru": "Изобретен набор иконок для ioBroker.vis",
+      "pt": "inventwo Icon-Set para ioBroker.vis",
+      "nl": "inventwo Icon-Set voor ioBroker.vis",
+      "fr": "Inventwo Icon-Set pour ioBroker.vis",
+      "it": "inventwo Icon-Set per ioBroker.vis",
+      "es": "inventwo Icon-Set para ioBroker.vis",
+      "pl": "wynalazki zestaw ikon dla ioBroker.vis",
+      "zh-cn": "ioBroker.vis的inventwo图标集"
     },
-		"authors": [
-			      "jkvarel <jkvarel@inventwo.com>",
-            "skvarel <skvarel@inventwo.com>"
-		],
-		"keywords": [
-            "ioBroker",
-            "Smart Home",
-            "home automation",
-            "inventwo",
-            "vis",
-            "icons"
-        ],
-		"license": "MIT",
-		"platform": "Javascript/Node.js",
-		"main": "main.js",
-		"icon": "i2_150.png",
-		"enabled": true,
-		"extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/i2_150.png",
-		"readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
-		"loglevel": "info",
-		"restartAdapters": [
-			"vis"
-		],
-		"localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
-		"mode": "once",
-		"type": "visualization-icons",
-		"compact": true,
-		"connectionType": "local",
-		"dataSource": "poll",
-		"materialize": true,
-		"dependencies": [
-			{
-				"js-controller": ">=1.4.2"
-			},
-			"vis"
-		]
-	},
+    "authors": [
+      "jkvarel <jkvarel@inventwo.com>",
+      "skvarel <skvarel@inventwo.com>"
+    ],
+    "keywords": [
+      "ioBroker",
+      "Smart Home",
+      "home automation",
+      "inventwo",
+      "vis",
+      "icons"
+    ],
+    "license": "MIT",
+    "platform": "Javascript/Node.js",
+    "main": "main.js",
+    "icon": "i2_150.png",
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/i2_150.png",
+    "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
+    "loglevel": "info",
+    "restartAdapters": [
+      "vis"
+    ],
+    "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
+    "mode": "once",
+    "type": "visualization-icons",
+    "compact": true,
+    "connectionType": "local",
+    "dataSource": "poll",
+    "materialize": true,
+    "onlyWWW": true,
+    "dependencies": [
+      {
+        "js-controller": ">=1.4.2"
+      },
+      "vis"
+    ]
+  },
 	"native": {},
 	"objects": [],
 	"instanceObjects": []
