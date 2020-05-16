@@ -32,7 +32,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen uns
 ## Changelog / Änderungsprotokoll
 
 ### 0.0.1
-* (skvarel) - Die Idee ist geboren
+• (skvarel) - Die Idee ist geboren
 
 ## License
 
