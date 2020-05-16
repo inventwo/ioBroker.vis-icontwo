@@ -17,32 +17,32 @@
             }
 		},
 		"title": "inventwo Icon-Set",
-		"titleLang": {
+    "titleLang": {
             "en": "inventwo Icon-Set",
-            "de": "inventwo Design Widgets",
-            "ru": "Изобретательские Виджеты Дизайна",
-            "pt": "inventwo Design Widgets",
-            "nl": "inventwo Design Widgets",
-            "fr": "inventwo Design Widgets",
-            "it": "inventwo Design Widgets",
-            "es": "inventwo Widgets de diseño",
-            "pl": "wynalazki dwóch widżetów projektowych",
-            "zh-cn": "inventwo设计小部件"
-        },
-		"desc": {
-            "en": "inventwo Design widgets for ioBroker.vis",
-            "de": "inventwo Design Widgets für ioBroker.vis",
-            "ru": "Изобретены виджеты дизайна для ioBroker.vis",
-            "pt": "widgets de Design do inventwo para ioBroker.vis",
-            "nl": "inventwo Ontwerpwidgets voor ioBroker.vis",
-            "fr": "widgets Inventwo Design pour ioBroker.vis",
-            "it": "inventwo Widget di design per ioBroker.vis",
-            "es": "inventwo Widgets de diseño para ioBroker.vis",
-            "pl": "wynalazki Widżety projektowe dla ioBroker.vis",
-            "zh-cn": "ioBroker.vis的inventwo设计小部件"
-        },
+            "de": "inventwo Icon-Set",
+            "ru": "изобретен набор иконок",
+            "pt": "inventwo Icon-Set",
+            "nl": "inventwo Icon-Set",
+            "fr": "Inventwo Icon-Set",
+            "it": "inventwo Icon-Set",
+            "es": "inventwo Icon-Set",
+            "pl": "Zestaw ikon",
+            "zh-cn": "inventwo图标集"
+    },
+    "desc": {
+            "en": "inventwo Icon-Set for ioBroker.vis",
+            "de": "inventwo Icon-Set für ioBroker.vis",
+            "ru": "Изобретен набор иконок для ioBroker.vis",
+            "pt": "inventwo Icon-Set para ioBroker.vis",
+            "nl": "inventwo Icon-Set voor ioBroker.vis",
+            "fr": "Inventwo Icon-Set pour ioBroker.vis",
+            "it": "inventwo Icon-Set per ioBroker.vis",
+            "es": "inventwo Icon-Set para ioBroker.vis",
+            "pl": "wynalazki zestaw ikon dla ioBroker.vis",
+            "zh-cn": "ioBroker.vis的inventwo图标集"
+    },
 		"authors": [
-			"jkvarel <jkvarel@inventwo.com>",
+			      "jkvarel <jkvarel@inventwo.com>",
             "skvarel <skvarel@inventwo.com>"
 		],
 		"keywords": [
@@ -50,27 +50,27 @@
             "Smart Home",
             "home automation",
             "inventwo",
-            "vis"
+            "vis",
+            "icons"
         ],
 		"license": "MIT",
 		"platform": "Javascript/Node.js",
 		"main": "main.js",
-		"icon": "i_150.png",
+		"icon": "i2_150.png",
 		"enabled": true,
-		"extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-inventwo/master/admin/i_150.png",
-		"readme": "https://github.com/inventwo/ioBroker.vis-inventwo/blob/master/README.md",
+		"extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/i2_150.png",
+		"readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
 		"loglevel": "info",
 		"restartAdapters": [
 			"vis"
 		],
 		"localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
-		"mode": "daemon",
-		"type": "visualization-widgets",
+		"mode": "once",
+		"type": "visualization-icons",
 		"compact": true,
 		"connectionType": "local",
 		"dataSource": "poll",
 		"materialize": true,
-		"supportCustoms": true,
 		"dependencies": [
 			{
 				"js-controller": ">=1.4.2"
@@ -78,15 +78,7 @@
 			"vis"
 		]
 	},
-	"native": {
-	        "Button": "#333333",
-		    "Active": "#455618",
-            "Text": "#C7C7C7",
-            "Stripes": "#393939",
-            "Background": "#9B9B9B",
-            "Radius": "10",
-            "Version": "0.0.1"
-	},
+	"native": {},
 	"objects": [],
 	"instanceObjects": []
 }
