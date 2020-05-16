@@ -1,21 +1,21 @@
 ![Logo](admin/i2_150.png)
 # ioBroker.vis-icontwo
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.template.svg)](https://www.npmjs.com/package/iobroker.template)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.template.svg)](https://www.npmjs.com/package/iobroker.template)
-![Number of Installations (latest)](http://iobroker.live/badges/template-installed.svg)
-![Number of Installations (stable)](http://iobroker.live/badges/template-stable.svg)
-[![Dependency Status](https://img.shields.io/david/Author/iobroker.template.svg)](https://david-dm.org/Author/iobroker.template)
-[![Known Vulnerabilities](https://snyk.io/test/github/Author/ioBroker.template/badge.svg)](https://snyk.io/test/github/Author/ioBroker.template)
+[![NPM version](http://img.shields.io/npm/v/iobroker.vis-icontwo.svg)](https://www.npmjs.com/package/iobroker.vis-icontwo)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.vis-icontwo.svg)](https://www.npmjs.com/package/iobroker.vis-icontwo)
+![Number of Installations (latest)](http://iobroker.live/badges/vis-icontwo-installed.svg)
+![Number of Installations (stable)](http://iobroker.live/badges/vis-icontwo-stable.svg)
+[![Dependency Status](https://img.shields.io/david/inventwo/iobroker.vis-icontwo.svg)](https://david-dm.org/inventwo/iobroker.vis-icontwo)
+[![Known Vulnerabilities](https://snyk.io/test/github/inventwo/iobroker.vis-icontwo/badge.svg)](https://snyk.io/test/github/inventwo/iobroker.vis-icontwo)
 
-[![NPM](https://nodei.co/npm/iobroker.template.png?downloads=true)](https://nodei.co/npm/iobroker.template/)
+[![NPM](https://nodei.co/npm/iobroker.vis-icontwo.png?downloads=true)](https://nodei.co/npm/iobroker.vis-icontwo/)
 
 
 ## Icon Adapter für den ioBroker.vis Adapter
 
 Ein reiner Icon Adapter für die Visualisierung.
 
-![Beispiel](admin/Screen_001.png)
+![Screenshot](admin/Screen_001.png)
 
 
 ## Changelog / Änderungsprotokoll
@@ -50,4 +50,4 @@ SOFTWARE.
 
 ---
 
-Some Icons from Icons8 https://icons8.com/
+Icons from Icons8 https://icons8.com/
