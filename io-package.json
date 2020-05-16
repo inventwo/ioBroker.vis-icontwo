@@ -65,7 +65,7 @@
     ],
     "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
     "mode": "once",
-    "type": "icon-set",
+    "type": "visualization-icons",
     "compact": true,
     "materialize": true,
     "dependencies": [
@@ -75,9 +75,7 @@
       "vis"
     ]
   },
-    "native": {
-        
-    },
+    "native": {},
     "objects": [],
     "instanceObjects": []
 }

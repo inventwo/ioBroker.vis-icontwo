@@ -17,6 +17,17 @@ Ein reiner Icon Adapter für die Visualisierung.
 
 ![Screenshot](admin/Screen_001.png)
 
+---
+
+## Unterstützung
+
+Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen uns über jede Spende.
+
+(Dieser Link führt zu unserem PayPal-Konto und steht in keiner Verbindung zum ioBroker)
+
+[![Spende](admin/spende.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GQPD3G25CKTEJ&source=url)
+
+---
 
 ## Changelog / Änderungsprotokoll
 
