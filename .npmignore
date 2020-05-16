@@ -6,6 +6,7 @@ nbproject/
 *.code-workspace
 Thumbs.db
 gulpfile.js
+.github
 
 # CI test files
 test/
