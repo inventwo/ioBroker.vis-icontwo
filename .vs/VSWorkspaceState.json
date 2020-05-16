@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\widgets\\vis-icontwo"
+    "\\www"
   ],
-  "SelectedNode": "\\io-package.json",
+  "SelectedNode": "\\.travis.yml",
   "PreviewInSolutionExplorer": false
 }
