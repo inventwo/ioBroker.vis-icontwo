@@ -58,7 +58,7 @@
     "icon": "i2_150.png",
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/Author/ioBroker.template/master/admin/i2_150.png",
-    "readme": "https://github.com/Author/ioBroker.template/blob/master/README.md",
+    "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
     "loglevel": "info",
     "restartAdapters": [
       "vis"
