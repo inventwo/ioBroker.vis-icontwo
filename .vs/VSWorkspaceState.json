@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\admin",
     "\\widgets",
     "\\widgets\\vis-icontwo"
   ],
-  "SelectedNode": "\\.github",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
