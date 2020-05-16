@@ -20,26 +20,26 @@
     "titleLang": {
       "en": "inventwo Icon-Set",
       "de": "inventwo Icon-Set",
-      "ru": "изобретен набор иконок",
+      "ru": "inventwo Icon-Set",
       "pt": "inventwo Icon-Set",
       "nl": "inventwo Icon-Set",
-      "fr": "Inventwo Icon-Set",
+      "fr": "inventwo Icon-Set",
       "it": "inventwo Icon-Set",
       "es": "inventwo Icon-Set",
-      "pl": "Zestaw ikon",
-      "zh-cn": "inventwo图标集"
+      "pl": "inventwo Icon-Set",
+      "zh-cn": "inventwo Icon-Set"
     },
     "desc": {
       "en": "inventwo Icon-Set for ioBroker.vis",
       "de": "inventwo Icon-Set für ioBroker.vis",
-      "ru": "Изобретен набор иконок для ioBroker.vis",
-      "pt": "inventwo Icon-Set para ioBroker.vis",
-      "nl": "inventwo Icon-Set voor ioBroker.vis",
-      "fr": "Inventwo Icon-Set pour ioBroker.vis",
-      "it": "inventwo Icon-Set per ioBroker.vis",
-      "es": "inventwo Icon-Set para ioBroker.vis",
-      "pl": "wynalazki zestaw ikon dla ioBroker.vis",
-      "zh-cn": "ioBroker.vis的inventwo图标集"
+      "ru": "inventwo Icon-Set for ioBroker.vis",
+      "pt": "inventwo Icon-Set for ioBroker.vis",
+      "nl": "inventwo Icon-Set for ioBroker.vis",
+      "fr": "inventwo Icon-Set for ioBroker.vis",
+      "it": "inventwo Icon-Set for ioBroker.vis",
+      "es": "inventwo Icon-Set for ioBroker.vis",
+      "pl": "inventwo Icon-Set for ioBroker.vis",
+      "zh-cn": "inventwo Icon-Set for ioBroker.vis"
     },
     "authors": [
       "jkvarel <jkvarel@inventwo.com>",
@@ -48,7 +48,7 @@
     "keywords": [
       "ioBroker",
       "inventwo",
-      "Smarthome",
+      "Smart Home",
       "home automation",
       "VIS"
     ],
@@ -65,7 +65,7 @@
     ],
     "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
     "mode": "once",
-    "type": "visualization-icons",
+    "type": "icon-set",
     "compact": true,
     "materialize": true,
     "dependencies": [
@@ -75,7 +75,9 @@
       "vis"
     ]
   },
-    "native": {},
-    "objects": [],
-    "instanceObjects": []
+  "native": {
+
+  },
+  "objects": [],
+  "instanceObjects": []
 }
