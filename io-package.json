@@ -57,7 +57,7 @@
     "main": "main.js",
     "icon": "i2_150.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/Author/ioBroker.template/master/admin/i2_150.png",
+    "extIcon": "https://raw.githubusercontent.com/Author/ioBroker.vis-icontwo/master/admin/i2_150.png",
     "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
     "loglevel": "info",
     "restartAdapters": [
