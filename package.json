@@ -1,22 +1,26 @@
 {
   "name": "iobroker.vis-icontwo",
   "version": "0.0.1",
-  "description": "Template for adapter development",
-  "author": {
-    "name": "Author",
-    "email": "author@mail.com"
-  },
-  "homepage": "https://github.com/Author/ioBroker.template",
+  "description": "inventwo Icon-Set for ioBoker.vis",
+  "author": "skvarel <skvarel@inventwo.com>",
+  "contributors": [
+    "jkvarel <jkvarel@inventwo.com>",
+    "skvarel <skvarel@inventwo.com>"
+  ],
+  "homepage": "https://github.com/inventwo/ioBroker.vis-icontwo",
   "license": "MIT",
   "keywords": [
     "ioBroker",
     "template",
     "Smart Home",
-    "home automation"
+    "home automation",
+    "inventwo",
+    "icons",
+    "vis"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Author/ioBroker.template"
+    "url": "git+https://github.com/inventwo/ioBroker.vis-icontwo.git"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.3.1"
@@ -51,7 +55,7 @@
     "lint": "eslint"
   },
   "bugs": {
-    "url": "https://github.com/Author/ioBroker.template/issues"
+    "url": "https://github.com/inventwo/ioBroker.vis-icontwo/issues"
   },
   "readmeFilename": "README.md"
 }
