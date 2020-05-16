@@ -1,4 +1,4 @@
-![Logo](admin/i2_150.png)
+ï»¿![Logo](admin/i2_150.png)
 # ioBroker.vis-icontwo
 
 [![NPM version](http://img.shields.io/npm/v/iobroker.vis-icontwo.svg)](https://www.npmjs.com/package/iobroker.vis-icontwo)
@@ -11,28 +11,28 @@
 [![NPM](https://nodei.co/npm/iobroker.vis-icontwo.png?downloads=true)](https://nodei.co/npm/iobroker.vis-icontwo/)
 
 
-## Icon Adapter für den ioBroker.vis Adapter
+## Icon Adapter fÃ¼r den ioBroker.vis Adapter
 
-Ein reiner Icon Adapter für die Visualisierung.
+Ein reiner Icon Adapter fÃ¼r die Visualisierung.
 
 ![Screenshot](admin/Screen_001.png)
 
 ---
 
-## Unterstützung
+## UnterstÃ¼tzung
 
-Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen uns über jede Spende.
+Falls Dir unsere Arbeit gefÃ¤llt und Du uns unterstÃ¼tzen mÃ¶chtest, wir freuen uns Ã¼ber jede Spende.
 
-(Dieser Link führt zu unserem PayPal-Konto und steht in keiner Verbindung zum ioBroker)
+(Dieser Link fÃ¼hrt zu unserem PayPal-Konto und steht in keiner Verbindung zum ioBroker)
 
 [![Spende](admin/spende.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GQPD3G25CKTEJ&source=url)
 
 ---
 
-## Changelog / Änderungsprotokoll
+## Changelog / Ã„nderungsprotokoll
 
 ### 0.0.1
-• (skvarel) - Die Idee ist geboren
+â€¢ (skvarel) - Die Idee ist geboren
 
 ## License
 
