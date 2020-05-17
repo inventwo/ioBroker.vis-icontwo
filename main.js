@@ -21,7 +21,10 @@ class visIcontwo extends utils.Adapter {
 			...options,
 			name: "vis-icontwo",
 		});
+		this.on("ready", this.onReady.bind(this));
 	}
+
+	async onReady() { }
 
 }
 
