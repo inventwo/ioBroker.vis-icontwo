@@ -21,6 +21,12 @@ Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo O
 
 ![Pfad](admin/Pfad_001.png)
 
+Eine kurze Vorschau über den Stil der Icons:
+
+![Screenshot](admin/Screen_002.png)
+
+![Screenshot](admin/Screen_003.png)
+
 ---
 
 ## Unterstützung
