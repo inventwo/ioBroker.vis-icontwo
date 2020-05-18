@@ -23,8 +23,10 @@ Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo O
 
 Eine kurze Vorschau über den Stil der Icons:
 
+Icons (unsortiert):
 ![Screenshot](admin/Screen_002.png)
 
+Rooms:
 ![Screenshot](admin/Screen_003.png)
 
 ---
