@@ -35,6 +35,10 @@ Rooms (Teilauswahl)
 
 ![Screenshot](admin/Screen_003.png)
 
+Devices (Teilauswahl)
+
+![Screenshot](admin/Screen_004.png)
+
 ---
 
 ## Unterstützung
