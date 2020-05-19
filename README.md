@@ -23,10 +23,12 @@ Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo O
 
 Eine kurze Vorschau über den Stil der Icons:
 
-Lights (Teilauswahl):
+Lights (Teilauswahl)
+
 ![Screenshot](admin/Screen_002.png)
 
 Rooms (Teilauswahl)
+
 ![Screenshot](admin/Screen_003.png)
 
 ---
