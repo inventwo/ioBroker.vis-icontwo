@@ -23,10 +23,10 @@ Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo O
 
 Eine kurze Vorschau über den Stil der Icons:
 
-Icons (unsortiert):
+Lights (Teilauswahl):
 ![Screenshot](admin/Screen_002.png)
 
-Rooms:
+Rooms (Teilauswahl)
 ![Screenshot](admin/Screen_003.png)
 
 ---
@@ -42,6 +42,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 ---
 
 ## Changelog / Änderungsprotokoll
+
+### 0.1.2
+
+• (skvarel) - Code angepasst
 
 ### 0.1.1
 
