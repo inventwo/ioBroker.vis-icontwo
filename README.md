@@ -21,7 +21,11 @@ Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo O
 
 ![Pfad](admin/Pfad_001.png)
 
-Eine kurze Vorschau über den Stil der Icons:
+---
+
+## Vorschau
+
+Eine kleine Vorschau über den Stil der Icons:
 
 Lights (Teilauswahl)
 
