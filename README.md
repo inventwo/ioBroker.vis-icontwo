@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.1.4
+
+• (skvarel) - Neue Symbole hinzugefügt
+
 ### 0.1.3
 
 • (skvarel) - Neue Symbole hinzugefügt
