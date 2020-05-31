@@ -53,9 +53,13 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.1.5
+
+• (skvarel) - Neue Symbole hinzugefügt (Garage)
+
 ### 0.1.4
 
-• (skvarel) - Neue Symbole hinzugefügt
+• (skvarel) - Neue Symbole hinzugefügt (Lampen)
 
 ### 0.1.3
 
