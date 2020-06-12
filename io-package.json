@@ -1,8 +1,20 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "news": {
+      "0.1.8": {
+        "en": "bug fix",
+        "de": "Bug-Fix",
+        "ru": "Исправлена ошибка",
+        "pt": "correção de bug",
+        "nl": "bugfix",
+        "fr": "correction d'un bug",
+        "it": "risoluzione del problema",
+        "es": "arreglo del fallo",
+        "pl": "naprawa błędów",
+        "zh-cn": "错误修复"
+      },
       "0.1.7": {
         "en": "code adjusted",
         "de": "Code angepasst",
@@ -151,7 +163,6 @@
     ],
     "license": "MIT",
     "platform": "Javascript/Node.js",
-    "main": "main.js",
     "icon": "i2_150.png",
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/i2_150.png",

@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.1.8
+
+• (skvarel) - Bug-Fix
+
 ### 0.1.7
 
 • (skvarel) - Code angepasst
