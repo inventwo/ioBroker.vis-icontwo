@@ -1,8 +1,20 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "news": {
+      "0.1.7": {
+        "en": "code adjusted",
+        "de": "Code angepasst",
+        "ru": "скорректированный код",
+        "pt": "código ajustado",
+        "nl": "code aangepast",
+        "fr": "code ajusté",
+        "it": "codice modificato",
+        "es": "código ajustado",
+        "pl": "dostosowany kod",
+        "zh-cn": "代码调整"
+      },
       "0.1.6": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
@@ -152,8 +164,6 @@
     "mode": "once",
     "type": "visualization-icons",
     "compact": true,
-    "connectionType": "local",
-    "dataSource": "poll",
     "materialize": true,
     "onlyWWW": true,
     "dependencies": [
