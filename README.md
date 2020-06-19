@@ -55,6 +55,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 0.1.9
 
+• (skvarel) - Neue Symbole hinzugefügt (Brands)
+
+### 0.1.9
+
 • (skvarel) - Neue Symbole hinzugefügt (Weather)
 
 ### 0.1.8
