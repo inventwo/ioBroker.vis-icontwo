@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-icontwo",
-  "version": "0.1.11",
+  "version": "0.2.0",
   "description": "inventwo Icon Set",
   "author": "skvarel <skvarel@inventwo.com>",
   "contributors": [
@@ -47,7 +47,6 @@
     "sinon": "^9.0.1",
     "sinon-chai": "^3.5.0"
   },
-  "main": "main.js",
   "scripts": {
     "test:js": "mocha --opts test/mocha.custom.opts",
     "test:package": "mocha test/package --exit",
