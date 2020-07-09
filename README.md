@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.6.0
+
+• (skvarel) - Neue Symbole hinzugefügt (Devices)
+
 ### 0.5.0
 
 • (skvarel) - Neue Symbole hinzugefügt (Brands)
