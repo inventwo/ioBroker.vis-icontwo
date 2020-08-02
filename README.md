@@ -55,6 +55,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 0.8.0
 
+• (skvarel) - Neue Symbole hinzugefügt (Devices)
+
+### 0.8.0
+
 • (skvarel) - Neue Symbole hinzugefügt (Cooling & Weather)
 
 ### 0.7.0
