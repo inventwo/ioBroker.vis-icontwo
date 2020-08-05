@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.11.0
+
+• (skvarel) - Neue Symbole hinzugefügt (Phones_Tablets)
+
 ### 0.10.0
 
 • (skvarel) - Neue Symbole hinzugefügt (Cooling)
