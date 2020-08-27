@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.12.0
+
+• (skvarel) - Neue Symbole hinzugefügt (Lights)
+
 ### 0.11.0
 
 • (skvarel) - Neue Symbole hinzugefügt (Phones_Tablets)
