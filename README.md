@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.14.0
+
+• (skvarel) - Neue Symbole hinzugefügt (Schedules)
+
 ### 0.13.0
 
 • (skvarel) - Neue Symbole hinzugefügt (Lights)
