@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.16.0
+
+• (skvarel) - Neue Hintergründe hinzugefügt (Backgrounds)
+
 ### 0.15.0
 
 • (skvarel) - Neue Hintergründe hinzugefügt (Backgrounds)
