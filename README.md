@@ -1,4 +1,4 @@
-﻿![Logo](admin/i2_150.png)
+﻿![Logo](admin/icontwo.png)
 # ioBroker.vis-icontwo
 
 [![NPM version](http://img.shields.io/npm/v/iobroker.vis-icontwo.svg)](https://www.npmjs.com/package/iobroker.vis-icontwo)
@@ -52,6 +52,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 ---
 
 ## Changelog / Änderungsprotokoll
+
+### 0.16.1
+
+• (skvarel) - Code angepasst
 
 ### 0.16.0
 

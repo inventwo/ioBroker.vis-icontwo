@@ -1,8 +1,20 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.16.0",
+    "version": "0.16.1",
     "news": {
+      "0.16.1": {
+        "en": "code adjusted",
+        "de": "Code angepasst",
+        "ru": "код скорректирован",
+        "pt": "código ajustado",
+        "nl": "code aangepast",
+        "fr": "code ajusté",
+        "it": "codice modificato",
+        "es": "código ajustado",
+        "pl": "kod dostosowany",
+        "zh-cn": "代码调整"
+      },
       "0.16.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
@@ -206,138 +218,6 @@
         "es": "nuevos iconos agregados",
         "pl": "dodano nowe ikony",
         "zh-cn": "添加了新图标"
-      },
-      "0.1.9": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.1.8": {
-        "en": "bug fix",
-        "de": "Bug-Fix",
-        "ru": "Исправлена ошибка",
-        "pt": "correção de bug",
-        "nl": "bugfix",
-        "fr": "correction d'un bug",
-        "it": "risoluzione del problema",
-        "es": "arreglo del fallo",
-        "pl": "naprawa błędów",
-        "zh-cn": "错误修复"
-      },
-      "0.1.7": {
-        "en": "code adjusted",
-        "de": "Code angepasst",
-        "ru": "скорректированный код",
-        "pt": "código ajustado",
-        "nl": "code aangepast",
-        "fr": "code ajusté",
-        "it": "codice modificato",
-        "es": "código ajustado",
-        "pl": "dostosowany kod",
-        "zh-cn": "代码调整"
-      },
-      "0.1.6": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.1.5": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.1.4": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.1.3": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.1.2": {
-        "en": "code adjusted",
-        "de": "Code angepasst",
-        "ru": "скорректированный код",
-        "pt": "código ajustado",
-        "nl": "code aangepast",
-        "fr": "code ajusté",
-        "it": "codice modificato",
-        "es": "código ajustado",
-        "pl": "dostosowany kod",
-        "zh-cn": "代码调整"
-      },
-      "0.1.1": {
-        "en": "bug fix",
-        "de": "Bug-Fix",
-        "ru": "Исправлена ошибка",
-        "pt": "correção de bug",
-        "nl": "bugfix",
-        "fr": "correction d'un bug",
-        "it": "risoluzione del problema",
-        "es": "arreglo del fallo",
-        "pl": "naprawa błędów",
-        "zh-cn": "错误修复"
-      },
-      "0.1.0": {
-        "en": "initial release",
-        "de": "Erstveröffentlichung",
-        "ru": "Первый выпуск",
-        "pt": "lançamento inicial",
-        "nl": "Eerste uitgave",
-        "fr": "Première version",
-        "it": "Versione iniziale",
-        "es": "Versión inicial",
-        "pl": "Pierwsze wydanie",
-        "zh-cn": "初始发行"
-      },
-      "0.0.1": {
-        "en": "The idea is born",
-        "de": "Die Idee ist geboren",
-        "ru": "Идея рождается",
-        "pt": "A ideia nasce",
-        "nl": "Het idee is geboren",
-        "fr": "L'idée est née",
-        "it": "L'idea è nata",
-        "es": "La idea nace",
-        "pl": "Pomysł się rodzi",
-        "zh-cn": "这个想法诞生了"
       }
     },
     "title": "inventwo Icon Set",
@@ -379,9 +259,9 @@
     ],
     "license": "MIT",
     "platform": "Javascript/Node.js",
-    "icon": "i2_150.png",
+    "icon": "icontwo.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/i2_150.png",
+    "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/icontwo.png",
     "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
     "loglevel": "info",
     "restartAdapters": [
