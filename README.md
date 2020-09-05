@@ -53,9 +53,13 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.17.1
+
+• (skvarel) - Code angepasst
+
 ### 0.17.0
 
-• (skvarel) - Neue Hintergründe hinzugefügt (Network)
+• (skvarel) - Neue Icons hinzugefügt (Network)
 
 ### 0.16.1
 
