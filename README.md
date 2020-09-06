@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.18.0
+
+• (skvarel) - Neue Icons hinzugefügt (Rooms)
+
 ### 0.17.1
 
 • (skvarel) - Code angepasst
