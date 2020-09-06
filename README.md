@@ -53,6 +53,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.19.0
+
+• (skvarel) - Neue Icons hinzugefügt (Lights & Alarm)
+
 ### 0.18.0
 
 • (skvarel) - Neue Icons hinzugefügt (Rooms)
