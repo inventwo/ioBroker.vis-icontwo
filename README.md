@@ -57,6 +57,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.19.3
+
+• (skvarel) - Neue Icons hinzugefügt (Alarm colored)
+
 ### 0.19.2
 
 • (skvarel) - Neue Icons hinzugefügt (Heating)
