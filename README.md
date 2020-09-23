@@ -57,6 +57,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.19.4
+
+• (skvarel) - Neue Icons hinzugefügt (Weather)
+
 ### 0.19.3
 
 • (skvarel) - Neue Icons hinzugefügt (Alarm colored)
