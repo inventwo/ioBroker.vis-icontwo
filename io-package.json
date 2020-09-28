@@ -1,8 +1,20 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.20.0",
+    "version": "0.20.1",
     "news": {
+      "0.20.1": {
+        "en": "code adjusted (adminTab and localLink)",
+        "de": "Code angepasst (adminTab und localLink)",
+        "ru": "код скорректирован (adminTab и localLink)",
+        "pt": "código ajustado (adminTab e localLink)",
+        "nl": "code aangepast (adminTab en localLink)",
+        "fr": "code ajusté (adminTab et localLink)",
+        "it": "codice modificato (adminTab e localLink)",
+        "es": "código ajustado (adminTab y localLink)",
+        "pl": "kod dostosowany (adminTab i localLink)",
+        "zh-cn": "\"调整代码（adminTab和localLink）"
+      },
       "0.20.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
@@ -15,54 +27,6 @@
         "pl": "dodano nowe ikony",
         "zh-cn": "添加了新图标"
       },
-      "0.19.4": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.19.3": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.19.2": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.19.1": {
-        "en": "code adjusted",
-        "de": "Code angepasst",
-        "ru": "код скорректирован",
-        "pt": "código ajustado",
-        "nl": "code aangepast",
-        "fr": "code ajusté",
-        "it": "codice modificato",
-        "es": "código ajustado",
-        "pl": "kod dostosowany",
-        "zh-cn": "代码调整"
-      },
       "0.19.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
@@ -73,138 +37,6 @@
         "it": "nuove icone aggiunte",
         "es": "nuevos iconos agregados",
         "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.18.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.17.1": {
-        "en": "bug fix",
-        "de": "Bug-Fix",
-        "ru": "Исправлена ошибка",
-        "pt": "correção de bug",
-        "nl": "bugfix",
-        "fr": "correction d'un bug",
-        "it": "risoluzione del problema",
-        "es": "arreglo del fallo",
-        "pl": "naprawa błędów",
-        "zh-cn": "错误修复"
-      },
-      "0.17.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.16.1": {
-        "en": "code adjusted",
-        "de": "Code angepasst",
-        "ru": "код скорректирован",
-        "pt": "código ajustado",
-        "nl": "code aangepast",
-        "fr": "code ajusté",
-        "it": "codice modificato",
-        "es": "código ajustado",
-        "pl": "kod dostosowany",
-        "zh-cn": "代码调整"
-      },
-      "0.16.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.15.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.14.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.13.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.12.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.11.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.10.0": {
-        "de": "Neue Symbole hinzugefügt",
-        "en": "new icons added",
-        "es": "nuevos iconos agregados",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "pl": "dodano nowe ikony",
-        "pt": "novos ícones adicionados",
-        "ru": "добавлены новые иконки",
         "zh-cn": "添加了新图标"
       }
     },
@@ -255,11 +87,22 @@
     "restartAdapters": [
       "vis"
     ],
-    "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
+    "singleton": true,
+    "localLink": "http://icontwo.inventwo.com/",
     "mode": "none",
     "type": "visualization-icons",
     "compact": true,
     "materialize": true,
+    "materializeTab": true,
+    "adminTab": {
+      "link": "http://icontwo.inventwo.com/",
+      "fa-icon": "collections",
+      "singleton": true,
+      "name": {
+        "en": "icontwo icons",
+        "de": "icontwo Icons"
+      }
+    },
     "onlyWWW": true,
     "dependencies": [
       {
@@ -268,7 +111,7 @@
       "vis"
     ]
   },
-	"native": {},
-	"objects": [],
-	"instanceObjects": []
+  "native": {},
+  "objects": [],
+  "instanceObjects": []
 }
