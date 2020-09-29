@@ -57,6 +57,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.21.1
+
+• (skvarel) - Code angepasst
 
 ### 0.21.0
 
