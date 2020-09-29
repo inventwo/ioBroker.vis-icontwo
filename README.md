@@ -57,6 +57,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.22.2
+
+• (skvarel) - Bug-Fix
+
 ### 0.22.1
 
 • (skvarel) - Icongröße angepasst
