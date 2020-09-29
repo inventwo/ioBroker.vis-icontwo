@@ -57,6 +57,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.22.1
+
+• (skvarel) - Icongröße angepasst
+
 ### 0.22.0
 
 • (skvarel) - Neue Icons hinzugefügt (Amazon Echo)
