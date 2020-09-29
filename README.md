@@ -57,6 +57,11 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+
+### 0.21.0
+
+• (skvarel) - Neue Icons hinzugefügt (Amazon Echo, Electricity)
+
 ### 0.20.1
 
 • (skvarel) - Code angepasst (adminTab & localLink)
