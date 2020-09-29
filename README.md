@@ -57,13 +57,17 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.22.0
+
+• (skvarel) - Neue Icons hinzugefügt (Amazon Echo)
+
 ### 0.21.1
 
 • (skvarel) - Code angepasst
 
 ### 0.21.0
 
-• (skvarel) - Neue Icons hinzugefügt (Amazon Echo, Electricity)
+• (skvarel) - Neue Icons hinzugefügt (Electricity)
 
 ### 0.20.1
 
