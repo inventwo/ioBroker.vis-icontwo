@@ -1,8 +1,20 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.27.0",
+    "version": "0.27.1",
     "news": {
+      "0.27.1": {
+        "en": "bug fix",
+        "de": "Bug-Fix",
+        "ru": "Исправлена ошибка",
+        "pt": "correção de bug",
+        "nl": "bug opgelost",
+        "fr": "correction d'un bug",
+        "it": "risoluzione del problema",
+        "es": "arreglo del fallo",
+        "pl": "naprawa błędów",
+        "zh-cn": "错误修复"
+      },
       "0.27.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
