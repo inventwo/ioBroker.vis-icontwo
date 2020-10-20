@@ -57,6 +57,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.28.0
+
+• Neue Icons hinzugefügt (Arrows, Shopping, Electricity)
+
 ### 0.27.1
 
 • Bug Fix
