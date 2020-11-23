@@ -63,6 +63,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 0.32.0
 
+• Neue Icons hinzugefügt (Maps)
+
+### 0.32.0
+
 • Neue Icons hinzugefügt (Stop)
 
 ### 0.31.0
