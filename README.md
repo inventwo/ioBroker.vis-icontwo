@@ -61,6 +61,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.36.0
+
+• Neue Icons hinzugefügt (Computer)
+
 ### 0.35.0
 
 • Neue Icons hinzugefügt (Lights)
