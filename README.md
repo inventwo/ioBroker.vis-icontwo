@@ -61,6 +61,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.42.0
+
+• Neue Icons hinzugefügt (Drinks_Food)
+
 ### 0.41.0
 
 • Neue Icons hinzugefügt (Alarm/Motion)
