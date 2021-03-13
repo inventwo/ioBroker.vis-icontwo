@@ -63,6 +63,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 0.46.0
 
+• Neue Icons hinzugefügt (Animated Backgrounds & Icons)
+
+### 0.46.0
+
 • Neue Icons hinzugefügt (Devices/Fountain Timer)
 
 ### 0.45.0
