@@ -61,9 +61,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
-### 0.46.0
+### 0.47.0
 
-• Neue Icons hinzugefügt (Animated Backgrounds & Icons)
+• Neue Icons hinzugefügt (Animated Icons)
 
 ### 0.46.0
 
