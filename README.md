@@ -63,7 +63,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 0.48.0
 
-• Neue Icons hinzugefügt (Brands)
+• Neue Icons hinzugefügt (Brands & Health)
 
 ### 0.47.0
 
