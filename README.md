@@ -351,7 +351,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 • Erstveröffentlichung
 
 ### 0.0.1
-• Die Idee ist geboren
+• Die Idee ist geboren (16.05.2020)
 
 ## License
 
