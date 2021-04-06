@@ -156,7 +156,8 @@
       {
         "js-controller": ">=1.4.2"
       },
-      "vis"
+      "vis",
+      "vis-inventwo"
     ]
   },
   "native": {},
