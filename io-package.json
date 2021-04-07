@@ -1,8 +1,20 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.50.0",
+    "version": "0.50.1",
     "news": {
+      "0.50.1": {
+        "en": "code optimization",
+        "de": "Codeoptimierung",
+        "ru": "оптимизация кода",
+        "pt": "otimização de código",
+        "nl": "code optimalisatie",
+        "fr": "optimisation du code",
+        "it": "ottimizzazione del codice",
+        "es": "optimización de código",
+        "pl": "optymalizacja kodu",
+        "zh-cn": "代码优化"
+      },
       "0.50.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
