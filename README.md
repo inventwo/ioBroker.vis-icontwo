@@ -61,9 +61,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
-### 0.50.0
+### 0.50.1
 
-• Neue Icons hinzugefügt (Gardinen)
+• Code Optimierung und neuer Spenden-Link
 
 ### 0.50.0
 
