@@ -61,6 +61,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.47.0
+
+• Neue Icons hinzugefügt (Animated Icons - Charts & Alarm)
+
 ### 0.61.0
 
 • Neue Icons hinzugefügt (Finance & Charts)
