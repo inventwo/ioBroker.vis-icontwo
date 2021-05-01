@@ -61,6 +61,11 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.65.1
+
+• Bugfix
+
+
 ### 0.65.0
 
 • Neue Icons hinzugefügt (Player)
