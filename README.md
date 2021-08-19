@@ -61,9 +61,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
-### 0.77.1
+### 0.78.0
 
-• Bugfix
+• Neue Icons hinzugefügt (Spa_Fitness)
 
 ### 0.77.0
 
