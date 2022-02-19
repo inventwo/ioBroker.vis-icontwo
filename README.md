@@ -61,6 +61,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.86.2
+
+• Bugfix
+
 ### 0.86.1
 
 • Bugfix (npm Version)
