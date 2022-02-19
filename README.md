@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.87.0
+
+• Neue Icons hinzugefügt (Battery/Percent)
+
 ### 0.86.2
 
 • Bugfix
