@@ -63,7 +63,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 0.86.1
 
-• Bugfix (nom Version)
+• Bugfix (npm Version)
 
 ### 0.86.0
 
