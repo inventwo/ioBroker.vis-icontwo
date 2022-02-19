@@ -61,6 +61,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.86.1
+
+• Bugfix (nom Version)
+
 ### 0.86.0
 
 • Neue Icons hinzugefügt (Versand)

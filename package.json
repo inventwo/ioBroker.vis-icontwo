@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-icontwo",
-  "version": "0.86.0",
+  "version": "0.86.1",
   "description": "inventwo Icon Set",
   "author": "skvarel <skvarel@inventwo.com>",
   "contributors": [
@@ -26,7 +26,7 @@
     "@iobroker/adapter-core": "^2.4.0",
     "minimist": "^1.2.5",
     "np": "^7.0.0",
-    "npm": "^8.0.0"
+    "npm": "^6.0.0"
   },
   "devDependencies": {
     "@iobroker/testing": "^2.3.0",

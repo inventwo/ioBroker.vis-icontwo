@@ -1,8 +1,20 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.86.0",
+    "version": "0.86.1",
     "news": {
+      "0.86.1": {
+        "en": "Bugfix",
+        "de": "Bug-Fix",
+        "ru": "Исправлена ошибка",
+        "pt": "Correção de bug",
+        "nl": "Bugfix",
+        "fr": "Correction d'un bug",
+        "it": "Risoluzione del problema",
+        "es": "Arreglo del fallo",
+        "pl": "Naprawa błędów",
+        "zh-cn": "错误修复"
+      },
       "0.86.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
@@ -76,126 +88,6 @@
         "zh-cn": "添加了新图标"
       },
       "0.80.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.79.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.78.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.77.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.76.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.75.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.74.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.73.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.72.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.71.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "0.70.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
         "ru": "добавлены новые иконки",
