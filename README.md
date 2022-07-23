@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.89.0
+
+• Neue Icons hinzugefügt (Devices/water)
+
 ### 0.88.0
 
 • Neue Icons hinzugefügt (Devices/water)
