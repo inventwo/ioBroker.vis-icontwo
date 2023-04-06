@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.92.0
+
+• Neue Icons hinzugefügt (Alarm)
+
 ### 0.91.0
 
 • Neue Icons hinzugefügt (Alarm)
