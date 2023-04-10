@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.94.0
+
+• Neue Icons hinzugefügt (Brands)
+
 ### 0.93.0
 
 • Neue Icons hinzugefügt (Devices/Cooling/)
