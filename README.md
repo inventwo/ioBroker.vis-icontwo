@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.95.0
+
+• Neue Icons hinzugefügt (Misc)
+
 ### 0.94.0
 
 • Neue Icons hinzugefügt (Brands)
