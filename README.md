@@ -36,11 +36,11 @@ Z.B. Lights (Teilauswahl):
 
 Z.B. Rooms (Teilauswahl):
 
-![Screenshot](http://resources.inventwo.com/github/icontwo/Screen_003.png)
+![Screenshot](https://resources.inventwo.com/github/icontwo/Screen_003.png)
 
 Z.B. Devices (Teilauswahl):
 
-![Screenshot](http://resources.inventwo.com/github/icontwo/Screen_004.png)
+![Screenshot](https://resources.inventwo.com/github/icontwo/Screen_004.png)
 
 Eine vollständige Übersicht aller Icons ist hier zu finden (die Ordnerstruktur ist die gleiche, wie im Dateimanager):
 
