@@ -32,7 +32,7 @@ Eine kleine Vorschau über den Stil der Icons:
 
 Z.B. Lights (Teilauswahl):
 
-![Screenshot](https://resources.inventwo.com/github/icontwo/Screen_002.png)
+![Screenshot](img src="/img/Screen_001.png)
 
 Z.B. Rooms (Teilauswahl):
 
