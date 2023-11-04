@@ -22,7 +22,7 @@ Ein reiner Icon Adapter für die Visualisierung.
 
 Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo Ordner zu finden
 
-![Pfad](https://resources.inventwo.com/github/icontwo/Pfad_001.png)
+![Pfad](http://resources.inventwo.com/github/icontwo/Pfad_001.png)
 
 ---
 
