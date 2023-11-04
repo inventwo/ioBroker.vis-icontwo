@@ -18,11 +18,11 @@
 
 Ein reiner Icon Adapter für die Visualisierung. 
 
-![Screenshot](http://resources.inventwo.com/github/icontwo/Screen_001.png)
+![Screenshot](https://resources.inventwo.com/github/icontwo/Screen_001.png)
 
 Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo Ordner zu finden
 
-![Pfad](http://resources.inventwo.com/github/icontwo/Pfad_001.png)
+![Pfad](https://resources.inventwo.com/github/icontwo/Pfad_001.png)
 
 ---
 
@@ -32,7 +32,7 @@ Eine kleine Vorschau über den Stil der Icons:
 
 Z.B. Lights (Teilauswahl):
 
-![Screenshot](http://resources.inventwo.com/github/icontwo/Screen_002.png)
+![Screenshot](https://resources.inventwo.com/github/icontwo/Screen_002.png)
 
 Z.B. Rooms (Teilauswahl):
 
@@ -44,7 +44,7 @@ Z.B. Devices (Teilauswahl):
 
 Eine vollständige Übersicht aller Icons ist hier zu finden (die Ordnerstruktur ist die gleiche, wie im Dateimanager):
 
--> http://icontwo.inventwo.com <-
+-> https://icontwo.inventwo.com <-
 
 ---
 
