@@ -18,7 +18,7 @@
 
 Ein reiner Icon Adapter für die Visualisierung. 
 
-![Screenshot](img src="/img/Screen_001.png)
+![Screenshot](/img/Screen_001.png)
 
 Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo Ordner zu finden
 
