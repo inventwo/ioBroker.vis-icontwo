@@ -54,7 +54,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 (Dieser Link führt zu unserem PayPal-Konto und steht in keiner Verbindung zum ioBroker)
 
-[![Spende](http://resources.inventwo.com/github/icontwo/spende.png)](https://www.paypal.com/donate/?hosted_button_id=7W6M3TFZ4W9LW)
+[![Spende](https://resources.inventwo.com/github/icontwo/spende.png)](https://www.paypal.com/donate/?hosted_button_id=7W6M3TFZ4W9LW)
 
 ---
 
