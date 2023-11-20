@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 0.97.2
+
+• Bugfix
+
 ### 0.97.1
 
 • Bugfix
