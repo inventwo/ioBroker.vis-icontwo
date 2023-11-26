@@ -1,32 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.97.3",
+    "version": "0.98.0",
     "news": {
-      "0.97.3": {
-        "en": "Bugfix",
-        "de": "Bug-Fix",
-        "ru": "Исправлена ошибка",
-        "pt": "Correção de bug",
-        "nl": "Bugfix",
-        "fr": "Correction d'un bug",
-        "it": "Risoluzione del problema",
-        "es": "Arreglo del fallo",
-        "pl": "Naprawa błędów",
-        "zh-cn": "错误修复"
-      },"0.97.2": {
-        "en": "Bugfix",
-        "de": "Bug-Fix",
-        "ru": "Исправлена ошибка",
-        "pt": "Correção de bug",
-        "nl": "Bugfix",
-        "fr": "Correction d'un bug",
-        "it": "Risoluzione del problema",
-        "es": "Arreglo del fallo",
-        "pl": "Naprawa błędów",
-        "zh-cn": "错误修复"
+      "0.98.0": {
+        "en": "new icons added",
+        "de": "Neue Symbole hinzugefügt",
+        "ru": "добавлены новые иконки",
+        "pt": "novos ícones adicionados",
+        "nl": "nieuwe pictogrammen toegevoegd",
+        "fr": "nouvelles icônes ajoutées",
+        "it": "nuove icone aggiunte",
+        "es": "nuevos iconos agregados",
+        "pl": "dodano nowe ikony",
+        "zh-cn": "添加了新图标"
       },
-      "0.97.1": {
+      "0.97.3": {
         "en": "Bugfix",
         "de": "Bug-Fix",
         "ru": "Исправлена ошибка",
