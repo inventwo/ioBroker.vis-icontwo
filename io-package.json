@@ -85,7 +85,8 @@
     "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
     "loglevel": "info",
     "restartAdapters": [
-      "vis"
+      "vis",
+      "vis-2"
     ],
     "singleton": true,
     "localLink": "http://icontwo.inventwo.com/",
@@ -108,9 +109,7 @@
     "dependencies": [
       {
         "js-controller": ">=3.1.0"
-      },
-      "vis"
-    ]
+      }    ]
   },
   "native": {},
   "objects": [],
