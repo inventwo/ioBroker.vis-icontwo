@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "0.98.0",
+    "version": "1.0.0",
     "news": {
+      "1.0.0":{
+        "en": "VIS-2 compatible",
+        "de": "VIS-2 kompatibel",
+        "ru": "VIS-2 совместимый",
+        "pt": "VIS-2 compatível",
+        "nl": "VIS-2 compatible",
+        "fr": "VIS-2 compatible",
+        "it": "VIS-2 compatibile",
+        "es": "VIS-2 compatible",
+        "pl": "VIS-2 kompatybilny",
+        "uk": "VIS-2 сумісний",
+        "zh-cn": "六S-2"
+      },      
       "0.98.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
