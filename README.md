@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 1.2.1
+
+• Bugfix (version number)
+
 ### 1.2.0
 
 • Neue Icons hinzugefügt (Devices - thermal_heater) (Devices/Printers - printer_lable)
