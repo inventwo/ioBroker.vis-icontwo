@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 1.3.0
+
+• Neue Icons hinzugefügt (Lights - LED)
+
 ### 1.2.1
 
 • Bugfix (version number)
