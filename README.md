@@ -60,7 +60,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
-### 1.3.0
+### 1.4.0
 
 • Neue Icons hinzugefügt (Lights - Printer-LED)
 
