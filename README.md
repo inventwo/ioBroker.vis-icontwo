@@ -62,6 +62,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 1.3.0
 
+• Neue Icons hinzugefügt (Lights - Printer-LED)
+
+### 1.3.0
+
 • Neue Icons hinzugefügt (Lights - LED)
 
 ### 1.2.1
