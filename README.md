@@ -62,6 +62,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 1.5.0
 
+• Neue Icons hinzugefügt (Devices - Mower Blade)
+
+### 1.5.0
+
 • Neue Icons hinzugefügt (Animals - Rat & Mouse)
 
 ### 1.4.0
