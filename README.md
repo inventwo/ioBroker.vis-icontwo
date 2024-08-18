@@ -60,7 +60,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
-### 1.6.2
+### 1.6.3
 
 • Bug-Fix
 
