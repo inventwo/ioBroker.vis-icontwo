@@ -3,6 +3,19 @@
     "name": "vis-icontwo",
     "version": "1.6.0",
     "news": {
+      "1.6.1": {
+        "en": "Bug-Fix",
+        "de": "Bug-Fix",
+        "ru": "Bug-Fix",
+        "pt": "Bug-Fix",
+        "nl": "Bug-Fix",
+        "fr": "Bug-Fix",
+        "it": "Bug-Fix",
+        "es": "Bug-Fix",
+        "pl": "Bug- Fix",
+        "uk": "Помилки",
+        "zh-cn": "Bug-Fix 错误"
+      },
       "1.6.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
@@ -157,7 +170,7 @@
     "onlyWWW": true,
     "dependencies": [
       {
-        "js-controller": ">=3.1.0"
+        "js-controller": ">=5.0.19"
       }    ]
   },
   "native": {},
