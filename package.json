@@ -28,7 +28,7 @@
     "np": "^10.0.2"
   },
   "devDependencies": {
-    "@iobroker/testing": "^4.1.0",
+    "@iobroker/testing": "^5.0.0",
     "@types/chai": "^4.2.12",
     "@types/chai-as-promised": "^8.0.0",
     "@types/gulp": "^4.0.6",
