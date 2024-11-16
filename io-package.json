@@ -14,20 +14,7 @@
         "es": "nuevos iconos agregados",
         "pl": "dodano nowe ikony",
         "zh-cn": "添加了新图标"
-      },
-      "1.6.3": {
-        "en": "Bug-Fix",
-        "de": "Bug-Fix",
-        "ru": "Bug-Fix",
-        "pt": "Bug-Fix",
-        "nl": "Bug-Fix",
-        "fr": "Bug-Fix",
-        "it": "Bug-Fix",
-        "es": "Bug-Fix",
-        "pl": "Bug- Fix",
-        "uk": "Помилки",
-        "zh-cn": "Bug-Fix 错误"
-      },
+       },
       "1.6.0": {
         "en": "new icons added",
         "de": "Neue Symbole hinzugefügt",
