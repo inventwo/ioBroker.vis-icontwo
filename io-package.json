@@ -1,93 +1,61 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.8.0",
+    "version": "1.8.1",
     "news": {
+      "1.8.1": {
+        "en": "Bug fix",
+        "de": "Fehlerbehebung",
+        "ru": "Задняя фиксация",
+        "pt": "Correção de bugs",
+        "nl": "Bugfix",
+        "fr": "Correction du bug",
+        "it": "Correzione di bug",
+        "es": "Corrección de errores",
+        "pl": "Naprawianie błędów",
+        "uk": "Виправлення помилок",
+        "zh-cn": "错误修复"
+       },
       "1.8.0": {
         "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
+        "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
         "pt": "novos ícones adicionados",
         "nl": "nieuwe pictogrammen toegevoegd",
         "fr": "nouvelles icônes ajoutées",
         "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
+        "es": "nuevos iconos añadidos",
         "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
+        "uk": "додано нові іконки",
+        "zh-cn": "添加新图标"
        },
       "1.6.0": {
         "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
+        "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
         "pt": "novos ícones adicionados",
         "nl": "nieuwe pictogrammen toegevoegd",
         "fr": "nouvelles icônes ajoutées",
         "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
+        "es": "nuevos iconos añadidos",
         "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
+        "uk": "додано нові іконки",
+        "zh-cn": "添加新图标"
       },
       "1.5.0": {
         "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
+        "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
         "pt": "novos ícones adicionados",
         "nl": "nieuwe pictogrammen toegevoegd",
         "fr": "nouvelles icônes ajoutées",
         "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
+        "es": "nuevos iconos añadidos",
         "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
+        "uk": "додано нові іконки",
+        "zh-cn": "添加新图标"
       },
-      "1.4.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "1.3.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "1.2.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "1.1.0": {
-        "en": "new icons added",
-        "de": "Neue Symbole hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos agregados",
-        "pl": "dodano nowe ikony",
-        "zh-cn": "添加了新图标"
-      },
-      "1.0.0":{
+     "1.0.0":{
         "en": "VIS-2 compatible",
         "de": "VIS-2 kompatibel",
         "ru": "VIS-2 совместимый",
@@ -105,34 +73,35 @@
     "titleLang": {
       "en": "inventwo Icon Set",
       "de": "inventwo Icon Set",
-      "ru": "изобретен набор иконок",
-      "pt": "inventwo Icon Set",
-      "nl": "inventwo Icon Set",
-      "fr": "Inventwo Icon Set",
+      "ru": "icon Set",
+      "pt": "conjunto de ícones inventwo",
+      "nl": "inventwo Pictogramset",
+      "fr": "set d'icônes inventwo",
       "it": "inventwo Icon Set",
       "es": "inventwo Icon Set",
-      "pl": "Zestaw ikon",
-      "zh-cn": "inventwo图标集"
+      "pl": "wymyślony zestaw ikon",
+      "uk": "ввендві іконки Set",
+      "zh-cn": "输入二号图标集"
     },
     "desc": {
       "en": "inventwo Icon Set for ioBroker.vis",
       "de": "inventwo Icon Set für ioBroker.vis",
-      "ru": "Изобретен набор иконок для ioBroker.vis",
-      "pt": "inventwo Icon Set para ioBroker.vis",
+      "ru": "inventwo Icon Set for ioBroker.vis",
+      "pt": "inventando Conjunto de ícones para ioBroker.vis",
       "nl": "inventwo Icon Set voor ioBroker.vis",
-      "fr": "Inventwo Icon Set pour ioBroker.vis",
+      "fr": "invendeux Icône pour ioBroker.vis",
       "it": "inventwo Icon Set per ioBroker.vis",
-      "es": "inventwo Icon Set para ioBroker.vis",
-      "pl": "wynalazki zestaw ikon dla ioBroker.vis",
-      "zh-cn": "ioBroker.vis的inventwo图标集"
+      "es": "invento Icon Set para ioBroker.vis",
+      "pl": "wynalazcy Zestaw ikon dla jOBroker.vis",
+      "uk": "ввендва ІоБрокер.vis",
+      "zh-cn": "二号 ioBroker.vis 的图标集"
     },
     "authors": [
       "jkvarel <jkvarel@inventwo.com>",
       "skvarel <skvarel@inventwo.com>"
     ],
     "keywords": [
-      "ioBroker",
-      "Smart Home",
+      "visualisierung",
       "home automation",
       "inventwo",
       "vis",
