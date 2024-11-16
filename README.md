@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 1./.0
+
+• Neue Icons hinzugefügt (Devices - Network - repeater_offline)
+
 ### 1.6.3
 
 • Bug-Fix
