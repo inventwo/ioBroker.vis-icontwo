@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 1.10.0
+
+• Neue Icons hinzugefügt (Devices - Computers - Zigbee)
+
 ### 1.9.0
 
 • Neue Icons hinzugefügt (Brands - Zigbee)
