@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.10.0",
+    "version": "1.10.1",
     "news": {
+      "1.10.1": {
+        "en": "Bug fix",
+        "de": "Fehlerbehebung",
+        "ru": "Задняя фиксация",
+        "pt": "Correção de bugs",
+        "nl": "Bugfix",
+        "fr": "Correction du bug",
+        "it": "Correzione di bug",
+        "es": "Corrección de errores",
+        "pl": "Naprawianie błędów",
+        "uk": "Виправлення помилок",
+        "zh-cn": "错误修复"
+       },
       "1.10.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
@@ -42,32 +55,6 @@
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
        },
-      "1.6.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
-      },
-      "1.5.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
-      },
      "1.0.0":{
         "en": "VIS-2 compatible",
         "de": "VIS-2 kompatibel",
