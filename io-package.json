@@ -69,7 +69,6 @@
         "zh-cn": "六S-2"
       }
     },
-    "title": "inventwo Icon Set",
     "titleLang": {
       "en": "inventwo Icon Set",
       "de": "inventwo Icon Set",
@@ -107,7 +106,7 @@
       "vis",
       "icons"
     ],
-    "license": "MIT",
+    "licenseInformation": "MIT",
     "platform": "Javascript/Node.js",
     "icon": "icontwo.png",
     "enabled": true,
