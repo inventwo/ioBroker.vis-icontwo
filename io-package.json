@@ -121,7 +121,11 @@
       "vis-2"
     ],
     "singleton": true,
-    "localLink": "http://icontwo.inventwo.com/",
+    "localLinks": {
+      "_default": {
+        "link": "http://icontwo.inventwo.com/"
+      }
+    },
     "mode": "none",
     "type": "visualization-icons",
     "compact": true,
