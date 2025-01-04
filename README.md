@@ -612,8 +612,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## License
 
-Urheberrechte (c) 2025 [jkvarel](https://github.com/jkvarel) und [skvarel](https://github.com/skvarel) von [inventwo](https://github.com/inventwo)
-
 
 MIT License (nur in englisch / englisch only)
 
@@ -638,3 +636,5 @@ SOFTWARE.
 ---
 
 Icons from Icons8 https://icons8.com/ 
+
+Copyright (c) 2025 [jkvarel](https://github.com/jkvarel) und [skvarel](https://github.com/skvarel) von [inventwo](https://github.com/inventwo)
