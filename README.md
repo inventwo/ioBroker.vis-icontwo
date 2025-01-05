@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 1.11.0
+
+• Neue Icons hinzugefügt (Cars)
+
 ### 1.10.2
 
 • Bug-Fix
@@ -615,8 +619,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 • Die Idee ist geboren (16.05.2020)
 
 ## License
-
-Copyright (c) 2025 [jkvarel](https://github.com/jkvarel) und [skvarel](https://github.com/skvarel) von [inventwo](https://github.com/inventwo)
 
 MIT License (nur in englisch / englisch only)
 
