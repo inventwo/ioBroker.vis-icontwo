@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.10.1",
+    "version": "1.10.2",
     "news": {
+      "1.10.2": {
+        "en": "Bug fix",
+        "de": "Fehlerbehebung",
+        "ru": "Задняя фиксация",
+        "pt": "Correção de bugs",
+        "nl": "Bugfix",
+        "fr": "Correction du bug",
+        "it": "Correzione di bug",
+        "es": "Corrección de errores",
+        "pl": "Naprawianie błędów",
+        "uk": "Виправлення помилок",
+        "zh-cn": "错误修复"
+       },
       "1.10.1": {
         "en": "Bug fix",
         "de": "Fehlerbehebung",
