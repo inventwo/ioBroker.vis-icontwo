@@ -32,7 +32,7 @@
     "url": "git+https://github.com/inventwo/ioBroker.vis-icontwo.git"
   },
   "dependencies": {
-    "@iobroker/adapter-core": "^2.4.0",
+    "@iobroker/adapter-core": "^3.2.3",
     "minimist": "^1.2.5",
     "np": "^10.0.2"
   },
