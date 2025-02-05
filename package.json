@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@iobroker/testing": "^5.0.0",
-    "@types/chai": "^4.2.12",
+    "@types/chai": "^5.0.1",
     "@types/chai-as-promised": "^8.0.0",
     "@types/mocha": "^10.0.1",
     "@types/node": "^22.4.0",
@@ -46,7 +46,7 @@
     "@types/sinon": "^17.0.0",
     "@types/sinon-chai": "^4.0.0",
     "axios": "^1.2.6",
-    "chai": "^4.2.0",
+    "chai": "^5.1.2",
     "chai-as-promised": "^8.0.0",
     "eslint": "^9.3.0",
     "mocha": "^11.0.1",
