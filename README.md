@@ -58,6 +58,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
+### 1.14.0
+
+• Neue Icons hinzugefügt (Player/record)
+
 ### 1.13.0
 
 • Neue Icons hinzugefügt (Alarm/record)
