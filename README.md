@@ -1,7 +1,7 @@
 ﻿![Logo](admin/icontwo.png)
 # ioBroker.vis-icontwo
 
-[![NPM](https://nodei.co/npm/iobroker.vis-icontwo.svg?style=shields&data=n,v,u,d&color=blue)](https://nodei.co/npm/iobroker.vis-icontwo/)
+[![NPM](https://nodei.co/npm/iobroker.vis-icontwo.svg?style=shields&data=n,v,u,d&color=blue)](https://www.npmjs.com/package/iobroker.vis-icontwo)
 ![Number of Installations (stable)](http://iobroker.live/badges/vis-icontwo-stable.svg)<br>
 [![Downloads](https://img.shields.io/npm/dm/iobroker.vis-icontwo.svg?)](https://www.npmjs.com/package/iobroker.vis-icontwo)
 ![Number of Installations (latest)](http://iobroker.live/badges/vis-icontwo-installed.svg)
