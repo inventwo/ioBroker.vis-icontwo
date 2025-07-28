@@ -11,7 +11,7 @@
 
 [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-green.svg)](https://www.paypal.com/donate/?hosted_button_id=7W6M3TFZ4W9LW)
 
-[![NPM](https://nodei.co/npm/iobroker.vis-icontwo.png?downloads=true)](https://nodei.co/npm/iobroker.vis-icontwo/)
+[![NPM](https://nodei.co/npm/iobroker.vis-icontwo.svg?color=green?data=s,d)](https://nodei.co/npm/iobroker.vis-icontwo/)
 
 
 ## Icon Adapter für den ioBroker.vis Adapter
