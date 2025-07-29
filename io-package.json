@@ -1,9 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.14.0",
+    "version": "1.15.0",
     "news": {
-       "1.14.0": {
+       "1.15.0": {
+        "en": "new icons added",
+        "de": "neue icons hinzugefügt",
+        "ru": "добавлены новые иконки",
+        "pt": "novos ícones adicionados",
+        "nl": "nieuwe pictogrammen toegevoegd",
+        "fr": "nouvelles icônes ajoutées",
+        "it": "nuove icone aggiunte",
+        "es": "nuevos iconos añadidos",
+        "pl": "dodano nowe ikony",
+        "uk": "додано нові іконки",
+        "zh-cn": "添加新图标"
+       },"1.14.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",

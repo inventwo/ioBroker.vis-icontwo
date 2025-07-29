@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 1.14.0
 
+• Neue Icons hinzugefügt (Devices/mower)
+
+### 1.14.0
+
 • Neue Icons hinzugefügt (Player/record)
 
 ### 1.13.0
