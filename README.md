@@ -58,7 +58,11 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 
-### 1.14.0
+### 1.16.0
+
+• Neue Icons hinzugefügt (Backgrounds/wood)
+
+### 1.15.0
 
 • Neue Icons hinzugefügt (Devices/mower)
 
