@@ -15,7 +15,8 @@
         "pl": "dodano nowe ikony",
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
-       },"1.15.0": {
+      },
+      "1.15.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
@@ -27,7 +28,8 @@
         "pl": "dodano nowe ikony",
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
-       },"1.14.0": {
+      },
+      "1.14.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
@@ -39,7 +41,8 @@
         "pl": "dodano nowe ikony",
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
-       },"1.13.0": {
+      },
+      "1.13.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
@@ -51,7 +54,8 @@
         "pl": "dodano nowe ikony",
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
-       },"1.12.0": {
+      },
+      "1.12.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
@@ -63,7 +67,8 @@
         "pl": "dodano nowe ikony",
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
-       },"1.11.0": {
+      },
+      "1.11.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
@@ -75,7 +80,7 @@
         "pl": "dodano nowe ikony",
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
-       },
+      },
       "1.10.2": {
         "en": "Bug fix",
         "de": "Fehlerbehebung",
@@ -88,7 +93,7 @@
         "pl": "Naprawianie błędów",
         "uk": "Виправлення помилок",
         "zh-cn": "错误修复"
-       },
+      },
       "1.10.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
@@ -101,34 +106,8 @@
         "pl": "dodano nowe ikony",
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
-       },
-      "1.9.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
-       },
-      "1.8.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
-       },
-     "1.0.0":{
+      },
+      "1.0.0":{
         "en": "VIS-2 compatible",
         "de": "VIS-2 kompatibel",
         "ru": "VIS-2 совместимый",
