@@ -54,9 +54,6 @@
   "bugs": {
     "url": "https://github.com/inventwo/ioBroker.vis-icontwo/issues"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
-  },
   "directories": {
     "lib": "lib",
     "test": "test"
