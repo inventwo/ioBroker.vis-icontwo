@@ -16,32 +16,6 @@
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
       },
-      "1.16.1": {
-        "en": "cleanup",
-        "de": "reinigung",
-        "ru": "уборка",
-        "pt": "limpeza",
-        "nl": "opruimen",
-        "fr": "nettoyage",
-        "it": "pulizia",
-        "es": "limpieza",
-        "pl": "czyszczenie",
-        "uk": "очищення",
-        "zh-cn": "清理"
-      },
-      "1.16.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
-      },
       "1.15.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
@@ -82,45 +56,6 @@
         "zh-cn": "添加新图标"
       },
       "1.12.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
-      },
-      "1.11.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконки",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
-      },
-      "1.10.2": {
-        "en": "Bug fix",
-        "de": "Fehlerbehebung",
-        "ru": "Задняя фиксация",
-        "pt": "Correção de bugs",
-        "nl": "Bugfix",
-        "fr": "Correction du bug",
-        "it": "Correzione di bug",
-        "es": "Corrección de errores",
-        "pl": "Naprawianie błędów",
-        "uk": "Виправлення помилок",
-        "zh-cn": "错误修复"
-      },
-      "1.10.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
         "ru": "добавлены новые иконки",
