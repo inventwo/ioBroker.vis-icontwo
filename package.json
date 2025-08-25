@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@iobroker/testing": "^5.0.0",
-    "chai": "^5.1.2",
+    "chai": "^6.0.1",
     "chai-as-promised": "^8.0.0",
     "mocha": "^11.0.1",
     "proxyquire": "^2.1.3",
