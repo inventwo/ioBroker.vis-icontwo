@@ -1,9 +1,9 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.18.6",
+    "version": "1.18.10",
     "news": {
-      "1.18.7": {
+      "1.18.10": {
         "en": "Bugfix",
         "de": "Bugfix",
         "ru": "Исправлена ошибка",
