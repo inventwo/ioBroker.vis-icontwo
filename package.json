@@ -52,7 +52,7 @@
     "release": "release-script",
     "release:patch": "release-script patch",
     "release:minor": "release-script minor",
-    "release:major": "release-script major",
+    "release:major": "release-script major"
   },
   "bugs": {
     "url": "https://github.com/inventwo/ioBroker.vis-icontwo/issues"
