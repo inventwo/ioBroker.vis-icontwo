@@ -36,6 +36,7 @@
     "np": "^10.0.2"
   },
   "devDependencies": {
+    "@alcalzone/release-script": "^5.0.0",
     "chai": "^4.3.7",
     "chai-as-promised": "^7.1.1",
     "mocha": "^11.0.1",
@@ -46,10 +47,10 @@
   },
   "scripts": {
     "test": "echo 'No tests for icon-only adapter'",
-    "release": "release-it",
-    "release:patch": "release-it --increment=patch",
-    "release:minor": "release-it --increment=minor",
-    "release:major": "release-it --increment=major"
+    "release": "release-script",
+    "release:patch": "release-script patch",
+    "release:minor": "release-script minor",
+    "release:major": "release-script major"
   },
   "bugs": {
     "url": "https://github.com/inventwo/ioBroker.vis-icontwo/issues"
