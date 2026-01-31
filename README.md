@@ -60,8 +60,8 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### 1.18.4 (2026-01-31)
-- (skvarel) Added: Changelog_old
+### 1.18.4
+- (skvarel) Release-Test: Version und News-Sync
 
 ### 1.18.0
 
