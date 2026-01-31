@@ -1,20 +1,20 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.18.4",
+    "version": "1.18.6",
     "news": {
-      "1.18.4": {
-        "en": "Added changelog_old",
-        "de": "Changelog_old hinzugefügt",
-        "ru": "Добавлен changelog_old",
-        "pt": "Adicionado changelog_old",
-        "nl": "Changelog_old toegevoegd",
-        "fr": "Ajout de changelog_old",
-        "it": "Aggiunto changelog_old",
-        "es": "Se agregó changelog_old",
-        "pl": "Dodano changelog_old",
-        "uk": "Додано changelog_old",
-        "zh-cn": "添加了 changelog_old"
+      "1.18.6": {
+        "en": "Bugfix",
+        "de": "Bugfix",
+        "ru": "Исправлена ошибка",
+        "pt": "Correção de bug",
+        "nl": "Bugfix",
+        "fr": "Correction de bug",
+        "it": "Correzione di bug",
+        "es": "Corrección de errores",
+        "pl": "Naprawiono błąd",
+        "uk": "Виправлення помилки",
+        "zh-cn": "错误修复"
       },
       "1.18.0": {
         "en": "new icons added",
