@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-icontwo",
-  "version": "1.18.10",
+  "version": "1.19.0",
   "description": "inventwo Icon Set",
   "author": "skvarel <skvarel@inventwo.com>",
   "contributors": [
@@ -14,6 +14,7 @@
     "img/",
     "lib/",
     "www/",
+    "energyIcons/",
     "io-package.json",
     "LICENSE",
     "README.md"

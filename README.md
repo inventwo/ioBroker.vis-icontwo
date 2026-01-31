@@ -60,6 +60,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### 1.19.0 (2026-01-31)
+- (skvarel) Added: energyIcons
+
 ### 1.18.10 (2026-01-31)
 - (skvarel) Bugfix
 
