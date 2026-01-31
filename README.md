@@ -60,7 +60,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.18.5 (2026-01-31)
 - (skvarel) Release-Test: Version und News-Sync
 
 ### 1.18.0
