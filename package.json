@@ -36,7 +36,6 @@
     "np": "^10.0.2"
   },
   "devDependencies": {
-    "@iobroker/testing": "^5.0.0",
     "chai": "^6.2.2",
     "chai-as-promised": "^8.0.2",
     "mocha": "^11.0.1",
