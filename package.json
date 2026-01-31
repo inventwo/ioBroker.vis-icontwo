@@ -15,7 +15,8 @@
     "lib/",
     "www/",
     "io-package.json",
-    "LICENSE"
+    "LICENSE",
+    "README.md"
   ],
   "keywords": [
     "ioBroker",
