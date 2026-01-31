@@ -60,6 +60,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### 1.20.0 (2026-01-31)
+- (skvarel) Added: New icon category - 3D-Icons
+- (skvarel) Added: New icon - Home
+
 ### 1.19.0 (2026-01-31)
 - (skvarel) Added: energyIcons
 

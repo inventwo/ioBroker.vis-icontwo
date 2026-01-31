@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.19.0",
+    "version": "1.20.0",
     "news": {
+      "1.20.0": {
+        "en": "Added New icon category - 3D-Icons\nAdded: New icon - Home",
+        "de": "Neue Symbolkategorie hinzugefügt – 3D-Symbole\nNeu hinzugefügt: Neues Symbol – Startseite",
+        "ru": "Добавлена новая категория иконок — 3D-иконки.\nДобавлено: Новый значок - Главная",
+        "pt": "Adicionada nova categoria de ícones - Ícones 3D\nAdicionado: Novo ícone - Início",
+        "nl": "Nieuwe pictogramcategorie toegevoegd: 3D-pictogrammen\nToegevoegd: Nieuw pictogram - Startpagina",
+        "fr": "Ajout d'une nouvelle catégorie d'icônes : Icônes 3D\nAjouté : Nouvelle icône - Accueil",
+        "it": "Aggiunta nuova categoria di icone - Icone 3D\nAggiunto: Nuova icona - Home",
+        "es": "Se agregó una nueva categoría de íconos: Íconos 3D\nAñadido: Nuevo icono - Inicio",
+        "pl": "Dodano nową kategorię ikon – Ikony 3D\nDodano: Nowa ikona – Strona główna",
+        "uk": "Додано нову категорію значків – 3D-значки\nДодано: Нова іконка – Головна",
+        "zh-cn": "新增图标类别 - 3D 图标\n新增：新图标 - 主页"
+      },
       "1.19.0": {
         "en": "BAdded: energyIcons",
         "de": "Hinzugefügt: Energiesymbole",
@@ -11,7 +24,7 @@
         "nl": "Toegevoegd: energiepictogrammen",
         "fr": "Ajouté : icônes d'énergie",
         "it": "Aggiunto: icone energetiche",
-        "es": "BAñado: energyIcons",
+        "es": "Añadido: iconos de energía",
         "pl": "Dodano: ikony energii",
         "uk": "Додано: energyIcons",
         "zh-cn": "新增：能量图标"
