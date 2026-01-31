@@ -57,6 +57,11 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 ---
 
 ## Changelog / Änderungsprotokoll
+<!--
+	### **WORK IN PROGRESS**
+-->
+### **WORK IN PROGRESS**
+- (skvarel) Added: Changelog_old
 
 ### 1.18.0
 
@@ -644,6 +649,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 0.0.1
 • Die Idee ist geboren (16.05.2020)
+
+## Older changes
+- [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
 
 ## License
 
