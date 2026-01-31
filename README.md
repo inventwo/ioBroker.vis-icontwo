@@ -60,7 +60,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### 1.18.3 (2026-01-31)
+### **WORK IN PROGRESS**
 - (skvarel) Added: Changelog_old
 
 ### 1.18.0
