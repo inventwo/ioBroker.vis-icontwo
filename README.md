@@ -55,8 +55,12 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## Changelog / Änderungsprotokoll
 <!--
+	Placeholder for the next version (at the beginning of the line):
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Technical: Fixed automated version updates in io-package.json
+
 ### 1.20.2 (2026-02-01)
 - (skvarel) Edit: Readme
 
