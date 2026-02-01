@@ -3,6 +3,19 @@
     "name": "vis-icontwo",
     "version": "1.20.3",
     "news": {
+      "1.20.3": {
+        "en": "Technical: Fixed automated version updates in io-package.json",
+        "de": "Technisch: Automatische Versionsaktualisierungen in io-package.json behoben.",
+        "ru": "Технические проблемы: Исправлено автоматическое обновление версий в файле io-package.json.",
+        "pt": "Técnico: Corrigidas as atualizações automáticas de versão no arquivo io-package.json.",
+        "nl": "Technisch: Automatische versie-updates in io-package.json zijn gecorrigeerd.",
+        "fr": "Technique : Correction des mises à jour automatiques de version dans io-package.json",
+        "it": "Tecnico: corretti gli aggiornamenti automatici della versione in io-package.json",
+        "es": "Técnico: Se corrigieron las actualizaciones de versión automáticas en io-package.json",
+        "pl": "Kwestie techniczne: Naprawiono automatyczne aktualizacje wersji w pliku io-package.json",
+        "uk": "Технічні проблеми: Виправлено автоматичні оновлення версій у io-package.json.",
+        "zh-cn": "技术修复：修复了 io-package.json 中的自动版本更新问题。"
+      },
       "1.20.2": {
         "en": "Edit: Readme",
         "de": "Bearbeiten: Readme",

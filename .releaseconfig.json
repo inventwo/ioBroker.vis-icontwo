@@ -1,5 +1,6 @@
 {
 	"all": true,
+	"plugins": ["iobroker"],
 	"versionFiles": [
 		[
 			"io-package.json",
