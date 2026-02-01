@@ -30,8 +30,8 @@ jobs:
         with:
           node-version: '20.x'
           # Icon-only adapter has no code to test
-          type-checking: false
-          lint: false
+          type-checking: 'false'
+          lint: 'false'
 
   # # Runs adapter tests on all supported node versions and OSes
   # adapter-tests:
