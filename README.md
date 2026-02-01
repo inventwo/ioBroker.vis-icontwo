@@ -66,6 +66,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Removed: Admin-UI
+
 ### 2.1.0 (2026-02-01)
 - (skvarel) Added: New 3D-Icon - office
 

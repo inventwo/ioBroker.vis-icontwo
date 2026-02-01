@@ -1,127 +1,122 @@
 {
-  "common": {
-    "name": "vis-icontwo",
-    "version": "2.1.0",
-    "news": {
-      "2.1.0": {
-        "en": "Added: New 3D-Icon - office",
-        "de": "Hinzugefügt: Neue 3D-Icon - Büro",
-        "ru": "Добавлено: Новый 3D-Icon - офис",
-        "pt": "Adicionado: Novo ícone 3D - escritório",
-        "nl": "Toegevoegd: Nieuw 3D-Icon - kantoor",
-        "fr": "Ajouté: Nouveau 3D-Icon - bureau",
-        "it": "Aggiunto: New 3D-Icon - ufficio",
-        "es": "Añadido: Nuevo 3D-Icon - oficina",
-        "pl": "Dodano: Nowy 3D- Icon - biuro",
-        "uk": "Доданий: Новий 3D-Icon - офіс",
-        "zh-cn": "添加: 新建 3D- Icon - 办公室"
-      },
-      "2.0.0": {
-        "en": "Added: New icon category - 3D-Icons\nAdded: New 3D-Icons",
-        "de": "Hinzugefügt: Neue Icon Kategorie - 3D-Icons\nHinzugefügt: Neue 3D-Icons",
-        "ru": "Добавлено: Новая категория значков - 3D-иконки\nДобавлено: Новые 3D-иконки",
-        "pt": "Adicionado: Nova categoria de ícones - 3D- Icons\nAdicionado: Novos Ícones 3D",
-        "nl": "Toegevoegd: Nieuw pictogram categorie - 3D-Iconen\nToegevoegd: nieuwe 3D-iconen",
-        "fr": "Ajouté: Nouvelle catégorie d'icônes - 3D-Icônes\nAjouté: Nouvelles icônes 3D",
-        "it": "Aggiunto: Nuova categoria icona - 3D-Icons\nAggiunto: New 3D-Icons",
-        "es": "Añadido: Nueva categoría de iconos - 3D-Icons\nAñadido: Nuevos 3D-Icons",
-        "pl": "Dodano: Nowa kategoria ikon - 3D- Ikony\nDodano: Nowe ikony 3D-",
-        "uk": "Доданий: Нова ікона категорії - 3D-Icons\nДоданий: Новий 3D-Icons",
-        "zh-cn": "添加: 新图标类别 - 3D- Icons\n添加: 新建3D- Icons"
-      },
-      "1.19.0": {
-        "en": "BAdded: energyIcons",
-        "de": "Hinzugefügt: Energiesymbole",
-        "ru": "Добавлено: energyIcons",
-        "pt": "Adicionado: ícones de energia",
-        "nl": "Toegevoegd: energiepictogrammen",
-        "fr": "Ajouté : icônes d'énergie",
-        "it": "Aggiunto: icone energetiche",
-        "es": "Añadido: iconos de energía",
-        "pl": "Dodano: ikony energii",
-        "uk": "Додано: energyIcons",
-        "zh-cn": "新增：能量图标"
-      }
+    "common": {
+        "name": "vis-icontwo",
+        "version": "2.1.0",
+        "news": {
+            "2.1.0": {
+                "en": "Added: New 3D-Icon - office",
+                "de": "Hinzugefügt: Neue 3D-Icon - Büro",
+                "ru": "Добавлено: Новый 3D-Icon - офис",
+                "pt": "Adicionado: Novo ícone 3D - escritório",
+                "nl": "Toegevoegd: Nieuw 3D-Icon - kantoor",
+                "fr": "Ajouté: Nouveau 3D-Icon - bureau",
+                "it": "Aggiunto: New 3D-Icon - ufficio",
+                "es": "Añadido: Nuevo 3D-Icon - oficina",
+                "pl": "Dodano: Nowy 3D- Icon - biuro",
+                "uk": "Доданий: Новий 3D-Icon - офіс",
+                "zh-cn": "添加: 新建 3D- Icon - 办公室"
+            },
+            "2.0.0": {
+                "en": "Added: New icon category - 3D-Icons\nAdded: New 3D-Icons",
+                "de": "Hinzugefügt: Neue Icon Kategorie - 3D-Icons\nHinzugefügt: Neue 3D-Icons",
+                "ru": "Добавлено: Новая категория значков - 3D-иконки\nДобавлено: Новые 3D-иконки",
+                "pt": "Adicionado: Nova categoria de ícones - 3D- Icons\nAdicionado: Novos Ícones 3D",
+                "nl": "Toegevoegd: Nieuw pictogram categorie - 3D-Iconen\nToegevoegd: nieuwe 3D-iconen",
+                "fr": "Ajouté: Nouvelle catégorie d'icônes - 3D-Icônes\nAjouté: Nouvelles icônes 3D",
+                "it": "Aggiunto: Nuova categoria icona - 3D-Icons\nAggiunto: New 3D-Icons",
+                "es": "Añadido: Nueva categoría de iconos - 3D-Icons\nAñadido: Nuevos 3D-Icons",
+                "pl": "Dodano: Nowa kategoria ikon - 3D- Ikony\nDodano: Nowe ikony 3D-",
+                "uk": "Доданий: Нова ікона категорії - 3D-Icons\nДоданий: Новий 3D-Icons",
+                "zh-cn": "添加: 新图标类别 - 3D- Icons\n添加: 新建3D- Icons"
+            },
+            "1.19.0": {
+                "en": "BAdded: energyIcons",
+                "de": "Hinzugefügt: Energiesymbole",
+                "ru": "Добавлено: energyIcons",
+                "pt": "Adicionado: ícones de energia",
+                "nl": "Toegevoegd: energiepictogrammen",
+                "fr": "Ajouté : icônes d'énergie",
+                "it": "Aggiunto: icone energetiche",
+                "es": "Añadido: iconos de energía",
+                "pl": "Dodano: ikony energii",
+                "uk": "Додано: energyIcons",
+                "zh-cn": "新增：能量图标"
+            }
+        },
+        "titleLang": {
+            "en": "inventwo Icon Set",
+            "de": "inventwo Icon Set",
+            "ru": "icon Set",
+            "pt": "conjunto de ícones inventwo",
+            "nl": "inventwo Pictogramset",
+            "fr": "set d'icônes inventwo",
+            "it": "inventwo Icon Set",
+            "es": "inventwo Icon Set",
+            "pl": "wymyślony zestaw ikon",
+            "uk": "ввендві іконки Set",
+            "zh-cn": "输入二号图标集"
+        },
+        "desc": {
+            "en": "inventwo Icon Set for ioBroker.vis",
+            "de": "inventwo Icon Set für ioBroker.vis",
+            "ru": "inventwo Icon Set for ioBroker.vis",
+            "pt": "inventando Conjunto de ícones para ioBroker.vis",
+            "nl": "inventwo Icon Set voor ioBroker.vis",
+            "fr": "invendeux Icône pour ioBroker.vis",
+            "it": "inventwo Icon Set per ioBroker.vis",
+            "es": "invento Icon Set para ioBroker.vis",
+            "pl": "wynalazcy Zestaw ikon dla jOBroker.vis",
+            "uk": "ввендва ІоБрокер.vis",
+            "zh-cn": "二号 ioBroker.vis 的图标集"
+        },
+        "authors": [
+            "jkvarel <jkvarel@inventwo.com>",
+            "skvarel <skvarel@inventwo.com>"
+        ],
+        "keywords": [
+            "visualisierung",
+            "home automation",
+            "inventwo",
+            "vis",
+            "icons"
+        ],
+        "licenseInformation": {
+            "license": "MIT",
+            "type": "free"
+        },
+        "platform": "Javascript/Node.js",
+        "icon": "icontwo.png",
+        "enabled": true,
+        "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/icontwo.png",
+        "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
+        "loglevel": "info",
+        "restartAdapters": [
+            "vis",
+            "vis-2"
+        ],
+        "singleton": true,
+        "localLinks": {
+            "_default": {
+                "link": "http://icontwo.inventwo.com/"
+            }
+        },
+        "mode": "none",
+        "type": "visualization-icons",
+        "compact": true,
+        "connectionType": "local",
+        "dataSource": "poll",
+        "adminUI": {
+            "config": "none"
+        },
+        "onlyWWW": true,
+        "dependencies": [
+            {
+                "js-controller": ">=6.0.11"
+            }
+        ],
+        "tier": 1
     },
-    "titleLang": {
-      "en": "inventwo Icon Set",
-      "de": "inventwo Icon Set",
-      "ru": "icon Set",
-      "pt": "conjunto de ícones inventwo",
-      "nl": "inventwo Pictogramset",
-      "fr": "set d'icônes inventwo",
-      "it": "inventwo Icon Set",
-      "es": "inventwo Icon Set",
-      "pl": "wymyślony zestaw ikon",
-      "uk": "ввендві іконки Set",
-      "zh-cn": "输入二号图标集"
-    },
-    "desc": {
-      "en": "inventwo Icon Set for ioBroker.vis",
-      "de": "inventwo Icon Set für ioBroker.vis",
-      "ru": "inventwo Icon Set for ioBroker.vis",
-      "pt": "inventando Conjunto de ícones para ioBroker.vis",
-      "nl": "inventwo Icon Set voor ioBroker.vis",
-      "fr": "invendeux Icône pour ioBroker.vis",
-      "it": "inventwo Icon Set per ioBroker.vis",
-      "es": "invento Icon Set para ioBroker.vis",
-      "pl": "wynalazcy Zestaw ikon dla jOBroker.vis",
-      "uk": "ввендва ІоБрокер.vis",
-      "zh-cn": "二号 ioBroker.vis 的图标集"
-    },
-    "authors": [
-      "jkvarel <jkvarel@inventwo.com>",
-      "skvarel <skvarel@inventwo.com>"
-    ],
-    "keywords": [
-      "visualisierung",
-      "home automation",
-      "inventwo",
-      "vis",
-      "icons"
-    ],
-    "licenseInformation": {
-      "license": "MIT",
-      "type": "free"
-    },
-    "platform": "Javascript/Node.js",
-    "icon": "icontwo.png",
-    "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/icontwo.png",
-    "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
-    "loglevel": "info",
-    "restartAdapters": [
-      "vis",
-      "vis-2"
-    ],
-    "singleton": true,
-    "localLinks": {
-      "_default": {
-        "link": "http://icontwo.inventwo.com/"
-      }
-    },
-    "mode": "none",
-    "type": "visualization-icons",
-    "compact": true,
-    "connectionType": "local",
-    "dataSource": "poll",
-    "adminUI": {
-      "config": "none"
-    },
-    "onlyWWW": true,
-    "dependencies": [
-      {
-        "js-controller": ">=6.0.11"
-      }
-    ],
-    "globalDependencies": [
-      {
-        "admin": ">=7.6.17"
-      }
-    ],
-    "tier": 1
-  },
-  "native": {},
-  "objects": [],
-  "instanceObjects": []
+    "native": {},
+    "objects": [],
+    "instanceObjects": []
 }
