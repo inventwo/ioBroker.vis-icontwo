@@ -57,7 +57,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.22.1 (2026-02-01)
 - (skvarel) Fixed: .vscode/settings.json
 
 ### 1.22.0 (2026-02-01)
@@ -71,9 +71,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 1.20.3 (2026-02-01)
 - (skvarel) Technical: Fixed automated version updates in io-package.json
-
-### 1.20.2 (2026-02-01)
-- (skvarel) Edit: Readme
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

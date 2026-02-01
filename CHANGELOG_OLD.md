@@ -1,4 +1,7 @@
 # Older changes
+## 1.20.2 (2026-02-01)
+- (skvarel) Edit: Readme
+
 ## 1.20.1 (2026-02-01)
 - (skvarel) Technical: Modernized build and release infrastructure for automated deployments
 

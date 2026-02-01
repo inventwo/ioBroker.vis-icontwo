@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.22.0",
+    "version": "1.22.1",
     "news": {
+      "1.22.1": {
+        "en": "Fixed: .vscode/settings.json",
+        "de": "Behoben: .vscode/settings.json",
+        "ru": "Исправлено: .vscode/settings.json",
+        "pt": "Fixo: .vscode/settings.json",
+        "nl": "Vast: .vscode/instellingen.json",
+        "fr": "Correction : .vscode/settings.json",
+        "it": "Risolto: .vscode/settings.json",
+        "es": "Fijo: .vscode/settings.json",
+        "pl": "Naprawiono: .vscode / settings.json",
+        "uk": "Виправлено: .vscode/settings.json",
+        "zh-cn": "固定:.vscode/设定.json"
+      },
       "1.22.0": {
         "en": "Added: New 3d-Icons",
         "de": "Hinzugefügt: Neue 3d-Icons",
