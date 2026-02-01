@@ -13,17 +13,25 @@
 
 Ein reiner Icon Adapter für die Visualisierung. 
 
-![Screenshot](/img/Screen_001.png)
-
 Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo Ordner zu finden
 
+#### VIS1:
+
 ![Pfad](/img/Pfad_001.png)
+
+#### VIS2:
+
+![Pfad](/img/Screen_VIS2.PNG)
 
 ---
 
 ## Vorschau
 
 Eine kleine Vorschau über den Stil der Icons:
+
+Z.B. 3D-Icons (Teilauswahl) (ab v2.0.0 verfügbar):
+
+![Screenshot](/img/Screen_005.png)
 
 Z.B. Lights (Teilauswahl):
 
@@ -36,6 +44,7 @@ Z.B. Rooms (Teilauswahl):
 Z.B. Devices (Teilauswahl):
 
 ![Screenshot](/img/Screen_004.png)
+
 
 Eine vollständige Übersicht aller Icons ist hier zu finden (die Ordnerstruktur ist die gleiche, wie im Dateimanager):
 
@@ -57,20 +66,12 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### 1.22.1 (2026-02-01)
-- (skvarel) Fixed: .vscode/settings.json
+### **WORK IN PROGRESS**
+- (skvarel) Added: New icon category - 3D-Icons
+- (skvarel) Added: New 3D-Icons
 
-### 1.22.0 (2026-02-01)
-- (skvarel) Added: New 3d-Icons
-
-### 1.21.0 (2026-02-01)
-- (skvarel) Added: New 3d-Icons
-
-### 1.20.4 (2026-02-01)
-- (skvarel) Technical: Fixed automated version updates in io-package.json
-
-### 1.20.3 (2026-02-01)
-- (skvarel) Technical: Fixed automated version updates in io-package.json
+### 1.19.0 (2026-01-31)
+- (skvarel) Added: energyIcons
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

@@ -1,17 +1,4 @@
 # Older changes
-## 1.20.2 (2026-02-01)
-- (skvarel) Edit: Readme
-
-## 1.20.1 (2026-02-01)
-- (skvarel) Technical: Modernized build and release infrastructure for automated deployments
-
-## 1.20.0 (2026-01-31)
-- (skvarel) Added: New icon category - 3D-Icons
-- (skvarel) Added: New icon - Home
-
-## 1.19.0 (2026-01-31)
-- (skvarel) Added: energyIcons
-
 ## 1.18.10 (2026-01-31)
 - (skvarel) Bugfix
 
