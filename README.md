@@ -57,6 +57,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: .vscode/settings.json
+
 ### 1.22.0 (2026-02-01)
 - (skvarel) Added: New 3d-Icons
 

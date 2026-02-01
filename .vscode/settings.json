@@ -1,0 +1,67 @@
+{
+    // Editor Settings
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    // Files Settings
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    // Search Settings
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/package-lock.json": true
+    },
+    // JSON Settings
+    "json.format.enable": true,
+    "json.format.keepLines": false,
+    // Markdown Settings
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.wordWrap": "on",
+        "files.trimTrailingWhitespace": false
+    },
+    // JavaScript/TypeScript Settings
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    // Git Settings
+    "git.ignoreLimitWarning": true,
+    // ioBroker specific
+    "files.associations": {
+        "io-package.json": "json",
+        "admin/*.html": "html"
+    },
+    // JSON Schema Definitions
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "io-package.json"
+            ],
+            "url": "https://raw.githubusercontent.com/ioBroker/ioBroker.js-controller/master/schemas/io-package.json"
+        },
+        {
+            "fileMatch": [
+                "package.json"
+            ],
+            "url": "https://json.schemastore.org/package.json"
+        }
+    ]
+}
