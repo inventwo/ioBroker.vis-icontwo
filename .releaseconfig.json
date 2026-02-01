@@ -1,4 +1,6 @@
 {
 	"all": true,
-	"versionFiles": ["io-package.json"]
+	"versionFiles": [
+		["io-package.json", "$.common.version"]
+	]
 }
