@@ -57,9 +57,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.20.4 (2026-02-01)
 - (skvarel) Technical: Fixed automated version updates in io-package.json
-  
+
 ### 1.20.3 (2026-02-01)
 - (skvarel) Technical: Fixed automated version updates in io-package.json
 
@@ -72,9 +72,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 ### 1.20.0 (2026-01-31)
 - (skvarel) Added: New icon category - 3D-Icons
 - (skvarel) Added: New icon - Home
-
-### 1.19.0 (2026-01-31)
-- (skvarel) Added: energyIcons
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
