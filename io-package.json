@@ -3,6 +3,19 @@
     "name": "vis-icontwo",
     "version": "1.20.2",
     "news": {
+      "1.20.2": {
+        "en": "Edit: Readme",
+        "de": "Bearbeiten: Readme",
+        "ru": "Редактировать: файл Readme",
+        "pt": "Editar: Leia-me",
+        "nl": "Bewerken: Leesmij",
+        "fr": "Modifier : Lisez-moi",
+        "it": "Modifica: Leggimi",
+        "es": "Editar: Léame",
+        "pl": "Edytuj: Przeczytaj mnie",
+        "uk": "Редагувати: Readme",
+        "zh-cn": "编辑：自述文件"
+      },
       "1.20.1": {
         "en": "Technical: Modernized build and release infrastructure for automated deployments",
         "de": "Technisch: Modernisierte Build- und Release-Infrastruktur für automatisierte Deployments",
