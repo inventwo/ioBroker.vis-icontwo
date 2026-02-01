@@ -46,8 +46,7 @@
     "git.ignoreLimitWarning": true,
     // ioBroker specific
     "files.associations": {
-        "io-package.json": "json",
-        "admin/*.html": "html"
+        "io-package.json": "json"
     },
     // JSON Schema Definitions
     "json.schemas": [
