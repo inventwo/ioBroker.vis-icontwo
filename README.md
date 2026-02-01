@@ -57,7 +57,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.21.0 (2026-02-01)
 - (skvarel) Added: New 3d-Icons
 
 ### 1.20.4 (2026-02-01)
@@ -71,10 +71,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 1.20.1 (2026-02-01)
 - (skvarel) Technical: Modernized build and release infrastructure for automated deployments
-
-### 1.20.0 (2026-01-31)
-- (skvarel) Added: New icon category - 3D-Icons
-- (skvarel) Added: New icon - Home
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

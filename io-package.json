@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.20.4",
+    "version": "1.21.0",
     "news": {
+      "1.21.0": {
+        "en": "Added: New 3d-Icons",
+        "de": "Hinzugefügt: Neue 3d-Icons",
+        "ru": "Добавлено: Новые 3D-иконки",
+        "pt": "Adicionado: Novos Ícones 3d",
+        "nl": "Toegevoegd: nieuwe 3d-iconen",
+        "fr": "Ajouté: Nouveaux icônes 3d",
+        "it": "Aggiunto: New 3d-Icons",
+        "es": "Añadido: Nuevos 3d-Icons",
+        "pl": "Dodano: Nowe ikony 3d-",
+        "uk": "Доданий: Новий 3d-Icons",
+        "zh-cn": "添加: 新建 3d- Icons"
+      },
       "1.20.0": {
         "en": "Added New icon category - 3D-Icons\nAdded: New icon - Home",
         "de": "Neue Symbolkategorie hinzugefügt – 3D-Symbole\nNeu hinzugefügt: Neues Symbol – Startseite",
