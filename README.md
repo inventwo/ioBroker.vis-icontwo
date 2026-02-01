@@ -60,6 +60,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Technical: Modernized build and release infrastructure for automated deployments
+
 ### 1.20.0 (2026-01-31)
 - (skvarel) Added: New icon category - 3D-Icons
 - (skvarel) Added: New icon - Home
