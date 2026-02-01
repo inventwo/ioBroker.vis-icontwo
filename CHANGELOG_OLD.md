@@ -1,4 +1,8 @@
 # Older changes
+## 1.18.0
+
+• Neue Icons hinzugefügt (Network, Printer & People)
+
 ## 1.17.0
 
 • Neue Icons hinzugefügt (Devices/battery)
