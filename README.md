@@ -66,7 +66,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.1.1 (2026-02-01)
 - (skvarel) Removed: Admin-UI
 
 ### 2.1.0 (2026-02-01)
@@ -81,10 +81,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 1.18.10 (2026-01-31)
 - (skvarel) Bugfix
-
-### 1.18.0
-
-• Neue Icons hinzugefügt (Network, Printer & People)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
