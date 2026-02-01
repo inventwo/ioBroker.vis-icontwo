@@ -1,4 +1,9 @@
 # Older changes
+## 1.17.0
+
+• Neue Icons hinzugefügt (Devices/battery)
+• Neue Icons hinzugefügt (Alarm/camera)
+
 ## 1.16.0
 
 • Neue Icons hinzugefügt (Backgrounds/wood)

@@ -66,7 +66,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.1.0 (2026-02-01)
 - (skvarel) Added: New 3D-Icon - office
 
 ### 2.0.0 (2026-02-01)
@@ -82,11 +82,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 ### 1.18.0
 
 • Neue Icons hinzugefügt (Network, Printer & People)
-
-### 1.17.0
-
-• Neue Icons hinzugefügt (Devices/battery)
-• Neue Icons hinzugefügt (Alarm/camera)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
