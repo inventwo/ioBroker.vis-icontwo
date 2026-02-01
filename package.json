@@ -41,7 +41,7 @@
     "@alcalzone/release-script": "^5.0.0",
     "@iobroker/eslint-config": "^2.2.0",
     "chai": "^4.3.7",
-    "chai-as-promised": "^7.1.1",
+    "chai-as-promised": "^8.0.2",
     "eslint": "^9.39.2",
     "mocha": "^11.0.1",
     "proxyquire": "^2.1.3",
