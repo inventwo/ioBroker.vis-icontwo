@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.22.1",
+    "version": "2.0.0",
     "news": {
+      "2.0.0": {
+        "en": "Added: New icon category - 3D-Icons\nAdded: New 3D-Icons",
+        "de": "Hinzugefügt: Neue Icon Kategorie - 3D-Icons\nHinzugefügt: Neue 3D-Icons",
+        "ru": "Добавлено: Новая категория значков - 3D-иконки\nДобавлено: Новые 3D-иконки",
+        "pt": "Adicionado: Nova categoria de ícones - 3D- Icons\nAdicionado: Novos Ícones 3D",
+        "nl": "Toegevoegd: Nieuw pictogram categorie - 3D-Iconen\nToegevoegd: nieuwe 3D-iconen",
+        "fr": "Ajouté: Nouvelle catégorie d'icônes - 3D-Icônes\nAjouté: Nouvelles icônes 3D",
+        "it": "Aggiunto: Nuova categoria icona - 3D-Icons\nAggiunto: New 3D-Icons",
+        "es": "Añadido: Nueva categoría de iconos - 3D-Icons\nAñadido: Nuevos 3D-Icons",
+        "pl": "Dodano: Nowa kategoria ikon - 3D- Ikony\nDodano: Nowe ikony 3D-",
+        "uk": "Доданий: Нова ікона категорії - 3D-Icons\nДоданий: Новий 3D-Icons",
+        "zh-cn": "添加: 新图标类别 - 3D- Icons\n添加: 新建3D- Icons"
+      },
       "1.19.0": {
         "en": "BAdded: energyIcons",
         "de": "Hinzugefügt: Energiesymbole",

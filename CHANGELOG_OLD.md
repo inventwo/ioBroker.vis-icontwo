@@ -1,16 +1,4 @@
 # Older changes
-## 1.18.10 (2026-01-31)
-- (skvarel) Bugfix
-
-## 1.18.0
-
-• Neue Icons hinzugefügt (Network, Printer & People)
-
-## 1.17.0
-
-• Neue Icons hinzugefügt (Devices/battery)
-• Neue Icons hinzugefügt (Alarm/camera)
-
 ## 1.16.0
 
 • Neue Icons hinzugefügt (Backgrounds/wood)
