@@ -3,58 +3,6 @@
     "name": "vis-icontwo",
     "version": "1.20.4",
     "news": {
-      "1.20.4": {
-        "en": "Technical: Fixed automated version updates in io-package.json",
-        "de": "Technische Daten: Behobene automatische Versionsupdates in io-package. Json",
-        "ru": "Технический: Автоматические обновления версий в io-package. Джонсон",
-        "pt": "Técnico: Corrigido atualizações de versão automatizadas em io-package. json",
-        "nl": "Technisch: Vaste geautomatiseerde versie-updates in io-package. json",
-        "fr": "Technique: Correction des mises à jour de version automatisée dans io-package. Json",
-        "it": "Tecnica: Aggiornamenti di versione automatizzati fissi in io-package. J",
-        "es": "Técnica: Actualizaciones de versión automatizada fijas en el paquete io. json",
-        "pl": "Techniczne: Naprawiono automatyczne aktualizacje wersji w pakiecie jo-. json",
-        "uk": "Технічні умови: Виправлено автоматичні оновлення версії в io-package. свінгери",
-        "zh-cn": "技术: io-package中的固定自动版本更新. 贾森"
-      },
-      "1.20.3": {
-        "en": "Technical: Fixed automated version updates in io-package.json",
-        "de": "Technisch: Automatische Versionsaktualisierungen in io-package.json behoben.",
-        "ru": "Технические проблемы: Исправлено автоматическое обновление версий в файле io-package.json.",
-        "pt": "Técnico: Corrigidas as atualizações automáticas de versão no arquivo io-package.json.",
-        "nl": "Technisch: Automatische versie-updates in io-package.json zijn gecorrigeerd.",
-        "fr": "Technique : Correction des mises à jour automatiques de version dans io-package.json",
-        "it": "Tecnico: corretti gli aggiornamenti automatici della versione in io-package.json",
-        "es": "Técnico: Se corrigieron las actualizaciones de versión automáticas en io-package.json",
-        "pl": "Kwestie techniczne: Naprawiono automatyczne aktualizacje wersji w pliku io-package.json",
-        "uk": "Технічні проблеми: Виправлено автоматичні оновлення версій у io-package.json.",
-        "zh-cn": "技术修复：修复了 io-package.json 中的自动版本更新问题。"
-      },
-      "1.20.2": {
-        "en": "Edit: Readme",
-        "de": "Bearbeiten: Readme",
-        "ru": "Редактировать: файл Readme",
-        "pt": "Editar: Leia-me",
-        "nl": "Bewerken: Leesmij",
-        "fr": "Modifier : Lisez-moi",
-        "it": "Modifica: Leggimi",
-        "es": "Editar: Léame",
-        "pl": "Edytuj: Przeczytaj mnie",
-        "uk": "Редагувати: Readme",
-        "zh-cn": "编辑：自述文件"
-      },
-      "1.20.1": {
-        "en": "Technical: Modernized build and release infrastructure for automated deployments",
-        "de": "Technisch: Modernisierte Build- und Release-Infrastruktur für automatisierte Deployments",
-        "ru": "Технический: Модернизированная инфраструктура сборки и выпуска для автоматического развертывания",
-        "pt": "Técnico: Infraestrutura de build e release modernizada para deployments automatizados",
-        "nl": "Technisch: Gemoderniseerde build- en release-infrastructuur voor geautomatiseerde deployments",
-        "fr": "Technique : Infrastructure de build et release modernisée pour les déploiements automatisés",
-        "it": "Tecnico: Infrastruttura di build e release modernizzata per deployment automatizzati",
-        "es": "Técnico: Infraestructura de build y release modernizada para deployments automatizados",
-        "pl": "Techniczne: Zmodernizowana infrastruktura budowania i wydawania dla automatycznych wdrożeń",
-        "uk": "Технічний: Модернізована інфраструктура збірки та випуску для автоматичного розгортання",
-        "zh-cn": "技术性：现代化的构建和发布基础设施用于自动化部署"
-      },
       "1.20.0": {
         "en": "Added New icon category - 3D-Icons\nAdded: New icon - Home",
         "de": "Neue Symbolkategorie hinzugefügt – 3D-Symbole\nNeu hinzugefügt: Neues Symbol – Startseite",
@@ -80,19 +28,6 @@
         "pl": "Dodano: ikony energii",
         "uk": "Додано: energyIcons",
         "zh-cn": "新增：能量图标"
-      },
-      "1.18.10": {
-        "en": "Bugfix",
-        "de": "Bugfix",
-        "ru": "Исправлена ошибка",
-        "pt": "Correção de bug",
-        "nl": "Bugfix",
-        "fr": "Correction de bug",
-        "it": "Correzione di bug",
-        "es": "Corrección de errores",
-        "pl": "Naprawiono błąd",
-        "uk": "Виправлення помилки",
-        "zh-cn": "错误修复"
       }
     },
     "titleLang": {

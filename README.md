@@ -57,6 +57,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New 3d-Icons
+
 ### 1.20.4 (2026-02-01)
 - (skvarel) Technical: Fixed automated version updates in io-package.json
 
