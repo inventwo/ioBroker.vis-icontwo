@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "1.20.0",
+    "version": "1.20.1",
     "news": {
+      "1.20.1": {
+        "en": "Technical: Modernized build and release infrastructure for automated deployments",
+        "de": "Technisch: Modernisierte Build- und Release-Infrastruktur für automatisierte Deployments",
+        "ru": "Технический: Модернизированная инфраструктура сборки и выпуска для автоматического развертывания",
+        "pt": "Técnico: Infraestrutura de build e release modernizada para deployments automatizados",
+        "nl": "Technisch: Gemoderniseerde build- en release-infrastructuur voor geautomatiseerde deployments",
+        "fr": "Technique : Infrastructure de build et release modernisée pour les déploiements automatisés",
+        "it": "Tecnico: Infrastruttura di build e release modernizzata per deployment automatizzati",
+        "es": "Técnico: Infraestructura de build y release modernizada para deployments automatizados",
+        "pl": "Techniczne: Zmodernizowana infrastruktura budowania i wydawania dla automatycznych wdrożeń",
+        "uk": "Технічний: Модернізована інфраструктура збірки та випуску для автоматичного розгортання",
+        "zh-cn": "技术性：现代化的构建和发布基础设施用于自动化部署"
+      },
       "1.20.0": {
         "en": "Added New icon category - 3D-Icons\nAdded: New icon - Home",
         "de": "Neue Symbolkategorie hinzugefügt – 3D-Symbole\nNeu hinzugefügt: Neues Symbol – Startseite",

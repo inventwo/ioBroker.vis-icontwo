@@ -1,4 +1,17 @@
 # Older changes
+## 1.17.0
+
+• Neue Icons hinzugefügt (Devices/battery)
+• Neue Icons hinzugefügt (Alarm/camera)
+
+## 1.16.0
+
+• Neue Icons hinzugefügt (Backgrounds/wood)
+
+## 1.15.0
+
+• Neue Icons hinzugefügt (Devices/mower)
+
 ## 1.14.0
 
 • Neue Icons hinzugefügt (Player/record)

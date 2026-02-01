@@ -60,7 +60,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.20.1 (2026-02-01)
 - (skvarel) Technical: Modernized build and release infrastructure for automated deployments
 
 ### 1.20.0 (2026-01-31)
@@ -76,19 +76,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 ### 1.18.0
 
 • Neue Icons hinzugefügt (Network, Printer & People)
-
-### 1.17.0
-
-• Neue Icons hinzugefügt (Devices/battery)
-• Neue Icons hinzugefügt (Alarm/camera)
-
-### 1.16.0
-
-• Neue Icons hinzugefügt (Backgrounds/wood)
-
-### 1.15.0
-
-• Neue Icons hinzugefügt (Devices/mower)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
