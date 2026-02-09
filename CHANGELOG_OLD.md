@@ -1,4 +1,7 @@
 # Older changes
+## 1.18.10 (2026-01-31)
+- (skvarel) Bugfix
+
 ## 1.18.0
 
 • Neue Icons hinzugefügt (Network, Printer & People)

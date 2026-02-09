@@ -66,7 +66,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.2.0 (2026-02-09)
 - (skvarel) Added: New 3D-Icons (wind- & balcony-power)
 
 ### 2.1.1 (2026-02-01)
@@ -81,9 +81,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 1.19.0 (2026-01-31)
 - (skvarel) Added: energyIcons
-
-### 1.18.10 (2026-01-31)
-- (skvarel) Bugfix
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

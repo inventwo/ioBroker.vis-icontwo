@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.1.1",
+    "version": "2.2.0",
     "news": {
+      "2.2.0": {
+        "en": "Added: New 3D-Icons (wind- & balcony-power)",
+        "de": "Hinzugefügt: Neue 3D-Icons (wind- & balkon-power)",
+        "ru": "Добавлено: Новые 3D-иконки (мощность ветра и балкона)",
+        "pt": "Adicionado: Novos Ícones 3D (vento- & poder de varanda)",
+        "nl": "Toegevoegd: Nieuwe 3D-Icons (wind- & balkon-vermogen)",
+        "fr": "Ajouté: Nouveaux icônes 3D (énergie éolienne et balcon)",
+        "it": "Aggiunto: New 3D-Icons (wind- & balcone-power)",
+        "es": "Añadido: New 3D-Icons (wind- & balcón-power)",
+        "pl": "Dodano: nowe ikony 3D- (wind- & balcony- power)",
+        "uk": "Доданий: Новий 3D-Icons (wind- & балкон-power)",
+        "zh-cn": "添加:新建3D-Icons(风力和阳台功率)"
+      },
       "2.1.1": {
         "en": "Removed: Admin-UI",
         "de": "Entfernt: Admin-UI",
