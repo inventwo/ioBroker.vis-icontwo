@@ -66,6 +66,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New 3D-Icons (wind- & balcony-power)
+
 ### 2.1.1 (2026-02-01)
 - (skvarel) Removed: Admin-UI
 
