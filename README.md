@@ -66,6 +66,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+(skvarel) Added: New 3D-Icons (3d-printer)
+
 ### 2.2.0 (2026-02-09)
 - (skvarel) Added: New 3D-Icons (wind- & balcony-power)
 
