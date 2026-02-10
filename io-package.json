@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.2.0",
+    "version": "2.3.0",
     "news": {
+      "2.3.0": {
+        "en": "(skvarel) Added: New 3D-Icons (3d-printer)",
+        "de": "(skvarel) Hinzugefügt: Neue 3D-Icons (3D-Drucker)",
+        "ru": "Добавлено: Новые 3D-иконки (3d-принтер)",
+        "pt": "(skvarel) Adicionado: Novos Ícones 3D (3d-printer)",
+        "nl": "(skvarel) Toegevoegd: Nieuwe 3D-Icons (3d-printer)",
+        "fr": "(skvarel) Ajouté: Nouveaux icônes 3D (3d-printer)",
+        "it": "(skvarel) Aggiunto: New 3D-Icons (3d-printer)",
+        "es": "(skvarel) Añadido: Nuevos 3D-Icons (3d-printer)",
+        "pl": "Dodano: nowe ikony 3D- (drukarka 3d-)",
+        "uk": "(skvarel) Доданий: Новий 3D-Icons (3d-printer)",
+        "zh-cn": "(skvarel) 添加:新3D-Icons(3d打印机)"
+      },
       "2.2.0": {
         "en": "Added: New 3D-Icons (wind- & balcony-power)",
         "de": "Hinzugefügt: Neue 3D-Icons (wind- & balkon-power)",
