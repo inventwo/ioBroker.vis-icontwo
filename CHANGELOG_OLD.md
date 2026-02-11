@@ -1,4 +1,8 @@
 # Older changes
+## 2.0.0 (2026-02-01)
+- (skvarel) Added: New icon category - 3D-Icons
+- (skvarel) Added: New 3D-Icons
+
 ## 1.19.0 (2026-01-31)
 - (skvarel) Added: energyIcons
 
