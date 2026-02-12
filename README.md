@@ -66,9 +66,10 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.5.0 (2026-02-12)
 - (skvarel) Added: New 3D-Icons (garden & workshop)
-- 
+-
+
 ### 2.4.0 (2026-02-11)
 - (skvarel) Added: New 3D-Icons (printer)
 
@@ -80,9 +81,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 2.1.1 (2026-02-01)
 - (skvarel) Removed: Admin-UI
-
-### 2.1.0 (2026-02-01)
-- (skvarel) Added: New 3D-Icon - office
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

@@ -1,4 +1,7 @@
 # Older changes
+## 2.1.0 (2026-02-01)
+- (skvarel) Added: New 3D-Icon - office
+
 ## 2.0.0 (2026-02-01)
 - (skvarel) Added: New icon category - 3D-Icons
 - (skvarel) Added: New 3D-Icons

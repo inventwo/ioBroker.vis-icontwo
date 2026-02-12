@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.4.0",
+    "version": "2.5.0",
     "news": {
+      "2.5.0": {
+        "en": "Added: New 3D-Icons (garden & workshop)\n",
+        "de": "Hinzugefügt: Neue 3D-Icons (Garten & Workshop)\n",
+        "ru": "Новые 3D-иконки (сад и мастерская)\n",
+        "pt": "Adicionado: Novos Ícones 3D (jardim e oficina)\n",
+        "nl": "Toegevoegd: Nieuwe 3D-Icons (tuin & workshop)\n",
+        "fr": "Ajouté : Nouveau 3D-Icons (jardin & atelier)\n",
+        "it": "Aggiunto: New 3D-Icons (giardino & workshop)\n",
+        "es": "Añadido: Nuevos 3D-Icons (garden & workshop)\n",
+        "pl": "Dodano: Nowe ikony 3D- (ogród i warsztat)\n",
+        "uk": "Доданий: Новий 3D-Icons (гарден і майстерня)\n",
+        "zh-cn": "添加:新建3D-Icons(花园和车间)\n"
+      },
       "2.4.0": {
         "en": "Added: New 3D-Icons (printer)",
         "de": "Hinzugefügt: Neue 3D-Icons (Drucker)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowa kategoria ikon - 3D- Ikony\nDodano: Nowe ikony 3D-",
         "uk": "Доданий: Нова ікона категорії - 3D-Icons\nДоданий: Новий 3D-Icons",
         "zh-cn": "添加: 新图标类别 - 3D- Icons\n添加: 新建3D- Icons"
-      },
-      "1.19.0": {
-        "en": "BAdded: energyIcons",
-        "de": "Hinzugefügt: Energiesymbole",
-        "ru": "Добавлено: energyIcons",
-        "pt": "Adicionado: ícones de energia",
-        "nl": "Toegevoegd: energiepictogrammen",
-        "fr": "Ajouté : icônes d'énergie",
-        "it": "Aggiunto: icone energetiche",
-        "es": "Añadido: iconos de energía",
-        "pl": "Dodano: ikony energii",
-        "uk": "Додано: energyIcons",
-        "zh-cn": "新增：能量图标"
       }
     },
     "titleLang": {
