@@ -66,6 +66,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New 3D-Icons (garden & workshop)
+- 
 ### 2.4.0 (2026-02-11)
 - (skvarel) Added: New 3D-Icons (printer)
 
