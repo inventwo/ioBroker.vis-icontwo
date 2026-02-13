@@ -1,4 +1,7 @@
 # Older changes
+## 2.1.1 (2026-02-01)
+- (skvarel) Removed: Admin-UI
+
 ## 2.1.0 (2026-02-01)
 - (skvarel) Added: New 3D-Icon - office
 

@@ -66,7 +66,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.6.0 (2026-02-13)
 - (skvarel) Added: New 3D-Icons (robot worx/gardena & server)
 
 ### 2.5.0 (2026-02-12)
@@ -80,9 +80,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 2.2.0 (2026-02-09)
 - (skvarel) Added: New 3D-Icons (wind- & balcony-power)
-
-### 2.1.1 (2026-02-01)
-- (skvarel) Removed: Admin-UI
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
