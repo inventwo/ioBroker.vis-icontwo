@@ -66,7 +66,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.8.0 (2026-02-14)
 - (skvarel) Added: New 3D-Icons (sauna)
 
 ### 2.7.0 (2026-02-14)
@@ -80,9 +80,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 2.4.0 (2026-02-11)
 - (skvarel) Added: New 3D-Icons (printer)
-
-### 2.3.0 (2026-02-10)
-- (skvarel) Added: New 3D-Icons (3d-printer)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.7.0",
+    "version": "2.8.0",
     "news": {
+      "2.8.0": {
+        "en": "Added: New 3D-Icons (sauna)",
+        "de": "Hinzugefügt: Neue 3D-Icons (sauna)",
+        "ru": "Новые 3D-иконки (сауна)",
+        "pt": "Adicionado: Novos Ícones 3D (sauna)",
+        "nl": "Toegevoegd: Nieuwe 3D-Iconen (sauna)",
+        "fr": "Ajouté : Nouveaux icônes 3D (sauna)",
+        "it": "Aggiunto: New 3D-Icons (sauna)",
+        "es": "Añadido: Nuevos 3D-Icons (sauna)",
+        "pl": "Dodano: nowe ikony 3D- (sauna)",
+        "uk": "Доданий: Новий 3D-Icons (сауна)",
+        "zh-cn": "添加:新3D-Icons(桑拿)"
+      },
       "2.7.0": {
         "en": "Added: New 3D-Icons (garage)",
         "de": "Hinzugefügt: Neue 3D-Icons (Garage)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: nowe ikony 3D- (wind- & balcony- power)",
         "uk": "Доданий: Новий 3D-Icons (wind- & балкон-power)",
         "zh-cn": "添加:新建3D-Icons(风力和阳台功率)"
-      },
-      "2.1.1": {
-        "en": "Removed: Admin-UI",
-        "de": "Entfernt: Admin-UI",
-        "ru": "Оригинальное название: Admin-UI",
-        "pt": "Removido: Administração-UI",
-        "nl": "Verwijderd: Admin-UI",
-        "fr": "Supprimé : Admin-UI",
-        "it": "Rimuovi: Admin-UI",
-        "es": "Eliminado: Admin-UI",
-        "pl": "Usunięty: Podawanie",
-        "uk": "Видалити: Admin-UI",
-        "zh-cn": "删除: 管理员"
       }
     },
     "titleLang": {
