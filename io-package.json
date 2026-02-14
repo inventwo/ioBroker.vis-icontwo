@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.6.0",
+    "version": "2.7.0",
     "news": {
+      "2.7.0": {
+        "en": "Added: New 3D-Icons (garage)",
+        "de": "Hinzugefügt: Neue 3D-Icons (Garage)",
+        "ru": "Новые 3D-иконки (гараж)",
+        "pt": "Adicionado: Novos Ícones 3D (garagem)",
+        "nl": "Toegevoegd: nieuwe 3D-iconen (garage)",
+        "fr": "Ajouté: Nouveaux icônes 3D (garage)",
+        "it": "Aggiunto: New 3D-Icons (garage)",
+        "es": "Añadido: Nuevos 3D-Icons (garage)",
+        "pl": "Dodano: nowe ikony 3D- (garaż)",
+        "uk": "Доданий: Новий 3D-Icons (гараж)",
+        "zh-cn": "添加: 新建 3D- Icons (护栏)"
+      },
       "2.6.0": {
         "en": "Added: New 3D-Icons (robot worx/gardena & server)",
         "de": "Hinzugefügt: Neue 3D-Icons (robot worx/gardena & Server)",
@@ -80,19 +93,6 @@
         "pl": "Usunięty: Podawanie",
         "uk": "Видалити: Admin-UI",
         "zh-cn": "删除: 管理员"
-      },
-      "2.1.0": {
-        "en": "Added: New 3D-Icon - office",
-        "de": "Hinzugefügt: Neue 3D-Icon - Büro",
-        "ru": "Добавлено: Новый 3D-Icon - офис",
-        "pt": "Adicionado: Novo ícone 3D - escritório",
-        "nl": "Toegevoegd: Nieuw 3D-Icon - kantoor",
-        "fr": "Ajouté: Nouveau 3D-Icon - bureau",
-        "it": "Aggiunto: New 3D-Icon - ufficio",
-        "es": "Añadido: Nuevo 3D-Icon - oficina",
-        "pl": "Dodano: Nowy 3D- Icon - biuro",
-        "uk": "Доданий: Новий 3D-Icon - офіс",
-        "zh-cn": "添加: 新建 3D- Icon - 办公室"
       }
     },
     "titleLang": {

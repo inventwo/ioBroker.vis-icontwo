@@ -1,4 +1,7 @@
 # Older changes
+## 2.2.0 (2026-02-09)
+- (skvarel) Added: New 3D-Icons (wind- & balcony-power)
+
 ## 2.1.1 (2026-02-01)
 - (skvarel) Removed: Admin-UI
 
