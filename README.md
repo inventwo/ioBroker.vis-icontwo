@@ -66,6 +66,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New 3D-Icons (garage)
+
 ### 2.6.0 (2026-02-13)
 - (skvarel) Added: New 3D-Icons (robot worx/gardena & server)
 
