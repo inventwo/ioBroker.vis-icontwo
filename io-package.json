@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.8.0",
+    "version": "2.9.0",
     "news": {
+      "2.9.0": {
+        "en": "Added: New 3D-Icons (heater)",
+        "de": "Hinzugefügt: Neue 3D-Icons (Heizer)",
+        "ru": "Добавлено: Новые 3D-иконки (нагреватель)",
+        "pt": "Adicionado: Novos ícones 3D (aquecedor)",
+        "nl": "Toegevoegd: Nieuwe 3D-Iconen (verwarmer)",
+        "fr": "Ajouté: Nouveaux icônes 3D (chauffeur)",
+        "it": "Aggiunto: New 3D-Icons (riscaldatore)",
+        "es": "Añadido: Nuevos 3D-Icons (calentador)",
+        "pl": "Dodano: Nowe ikony 3D- (grzejnik)",
+        "uk": "Доданий: Новий 3D-Icons (тепловий)",
+        "zh-cn": "添加: 新建3D- Icons( 加热器)"
+      },
       "2.8.0": {
         "en": "Added: New 3D-Icons (sauna)",
         "de": "Hinzugefügt: Neue 3D-Icons (sauna)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: nowe ikony 3D- (drukarka 3d-)",
         "uk": "(skvarel) Доданий: Новий 3D-Icons (3d-printer)",
         "zh-cn": "(skvarel) 添加:新3D-Icons(3d打印机)"
-      },
-      "2.2.0": {
-        "en": "Added: New 3D-Icons (wind- & balcony-power)",
-        "de": "Hinzugefügt: Neue 3D-Icons (wind- & balkon-power)",
-        "ru": "Добавлено: Новые 3D-иконки (мощность ветра и балкона)",
-        "pt": "Adicionado: Novos Ícones 3D (vento- & poder de varanda)",
-        "nl": "Toegevoegd: Nieuwe 3D-Icons (wind- & balkon-vermogen)",
-        "fr": "Ajouté: Nouveaux icônes 3D (énergie éolienne et balcon)",
-        "it": "Aggiunto: New 3D-Icons (wind- & balcone-power)",
-        "es": "Añadido: New 3D-Icons (wind- & balcón-power)",
-        "pl": "Dodano: nowe ikony 3D- (wind- & balcony- power)",
-        "uk": "Доданий: Новий 3D-Icons (wind- & балкон-power)",
-        "zh-cn": "添加:新建3D-Icons(风力和阳台功率)"
       }
     },
     "titleLang": {

@@ -1,4 +1,7 @@
 # Older changes
+## 2.4.0 (2026-02-11)
+- (skvarel) Added: New 3D-Icons (printer)
+
 ## 2.3.0 (2026-02-10)
 - (skvarel) Added: New 3D-Icons (3d-printer)
 
