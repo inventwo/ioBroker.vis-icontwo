@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.10.0",
+    "version": "2.11.0",
     "news": {
+      "2.11.0": {
+        "en": "Added: New 3D-Icons (poolrobot)",
+        "de": "Hinzugefügt: Neue 3D-Icons (Poolrobot)",
+        "ru": "Новые 3D-иконки (Poolrobot)",
+        "pt": "Adicionado: Novos Ícones 3D (poolrobot)",
+        "nl": "Toegevoegd: Nieuwe 3D-Icons (poolrobot)",
+        "fr": "Ajouté: Nouveaux icônes 3D (poolrobot)",
+        "it": "Aggiunto: New 3D-Icons (poolrobot)",
+        "es": "Añadido: Nuevos 3D-Icons (poolrobot)",
+        "pl": "Dodano: nowe ikony 3D- (poolrobot)",
+        "uk": "Доданий: Новий 3D-Icons (басфор)",
+        "zh-cn": "添加: 新建 3D- Icons (集合机器人)"
+      },
       "2.10.0": {
         "en": "Added: New 3D-Icons (beach)",
         "de": "Hinzugefügt: Neue 3D-Icons (Strand)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony 3D- (ogród i warsztat)\n",
         "uk": "Доданий: Новий 3D-Icons (гарден і майстерня)\n",
         "zh-cn": "添加:新建3D-Icons(花园和车间)\n"
-      },
-      "2.4.0": {
-        "en": "Added: New 3D-Icons (printer)",
-        "de": "Hinzugefügt: Neue 3D-Icons (Drucker)",
-        "ru": "Добавлено: Новые 3D-иконки (принтер)",
-        "pt": "Adicionado: Novos Ícones 3D (impressor)",
-        "nl": "Toegevoegd: Nieuwe 3D-icons (printer)",
-        "fr": "Ajouté : Nouveaux icônes 3D (imprimeur)",
-        "it": "Aggiunto: New 3D-Icons (printer)",
-        "es": "Añadido: New 3D-Icons (printer)",
-        "pl": "Dodano: Nowe ikony 3D- (drukarka)",
-        "uk": "Доданий: Новий 3D-Icons (принтер)",
-        "zh-cn": "添加: 新建 3D- Icons (打印器)"
       }
     },
     "titleLang": {

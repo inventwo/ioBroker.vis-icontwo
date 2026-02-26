@@ -1,4 +1,7 @@
 # Older changes
+## 2.6.0 (2026-02-13)
+- (skvarel) Added: New 3D-Icons (robot worx/gardena & server)
+
 ## 2.5.0 (2026-02-12)
 - (skvarel) Added: New 3D-Icons (garden & workshop)
 
