@@ -66,6 +66,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New 3D-Icons (beach)
+
 ### 2.9.0 (2026-02-15)
 - (skvarel) Added: New 3D-Icons (heater)
 
