@@ -1,4 +1,7 @@
 # Older changes
+## 2.5.0 (2026-02-12)
+- (skvarel) Added: New 3D-Icons (garden & workshop)
+
 ## 2.4.0 (2026-02-11)
 - (skvarel) Added: New 3D-Icons (printer)
 

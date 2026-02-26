@@ -66,7 +66,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.10.0 (2026-02-26)
 - (skvarel) Added: New 3D-Icons (beach)
 
 ### 2.9.0 (2026-02-15)
@@ -80,9 +80,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 2.6.0 (2026-02-13)
 - (skvarel) Added: New 3D-Icons (robot worx/gardena & server)
-
-### 2.5.0 (2026-02-12)
-- (skvarel) Added: New 3D-Icons (garden & workshop)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

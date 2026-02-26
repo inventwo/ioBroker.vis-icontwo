@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.9.0",
+    "version": "2.10.0",
     "news": {
+      "2.10.0": {
+        "en": "Added: New 3D-Icons (beach)",
+        "de": "Hinzugefügt: Neue 3D-Icons (Strand)",
+        "ru": "Новые 3D-иконки (пляж)",
+        "pt": "Adicionado: Novos Ícones 3D (praia)",
+        "nl": "Toegevoegd: Nieuwe 3D-Icons (strand)",
+        "fr": "Ajouté: Nouveaux icônes 3D (plage)",
+        "it": "Aggiunto: New 3D-Icons (beach)",
+        "es": "Añadido: New 3D-Icons (beach)",
+        "pl": "Dodano: Nowe 3D- Ikony (plaża)",
+        "uk": "Доданий: Новий 3D-Icons (beach)",
+        "zh-cn": "添加:新3D-Icons(弹簧)"
+      },
       "2.9.0": {
         "en": "Added: New 3D-Icons (heater)",
         "de": "Hinzugefügt: Neue 3D-Icons (Heizer)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony 3D- (drukarka)",
         "uk": "Доданий: Новий 3D-Icons (принтер)",
         "zh-cn": "添加: 新建 3D- Icons (打印器)"
-      },
-      "2.3.0": {
-        "en": "(skvarel) Added: New 3D-Icons (3d-printer)",
-        "de": "(skvarel) Hinzugefügt: Neue 3D-Icons (3D-Drucker)",
-        "ru": "Добавлено: Новые 3D-иконки (3d-принтер)",
-        "pt": "(skvarel) Adicionado: Novos Ícones 3D (3d-printer)",
-        "nl": "(skvarel) Toegevoegd: Nieuwe 3D-Icons (3d-printer)",
-        "fr": "(skvarel) Ajouté: Nouveaux icônes 3D (3d-printer)",
-        "it": "(skvarel) Aggiunto: New 3D-Icons (3d-printer)",
-        "es": "(skvarel) Añadido: Nuevos 3D-Icons (3d-printer)",
-        "pl": "Dodano: nowe ikony 3D- (drukarka 3d-)",
-        "uk": "(skvarel) Доданий: Новий 3D-Icons (3d-printer)",
-        "zh-cn": "(skvarel) 添加:新3D-Icons(3d打印机)"
       }
     },
     "titleLang": {
