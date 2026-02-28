@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.11.0",
+    "version": "2.11.1",
     "news": {
+      "2.11.1": {
+        "en": "Fixed: Issue detected by repository checker.",
+        "de": "Behoben: Ausgestellt durch Repository Checker.",
+        "ru": "Исправлено: проблема, обнаруженная проверкой хранилища.",
+        "pt": "Corrigido: Problema detectado pelo verificador de repositório.",
+        "nl": "Vast: Uitgave gedetecteerd door repository checker.",
+        "fr": "Correction : problème détecté par le vérificateur du dépôt.",
+        "it": "Risolto: Problema rilevato da repository checker.",
+        "es": "Corregido: Problema detectado por repositorio.",
+        "pl": "Naprawiono: Wydanie wykryte przez sprawdzacz repozytorium.",
+        "uk": "Виправлено: Виявлено репозиторійним чекером.",
+        "zh-cn": "固定:由仓库检查器检测到的问题."
+      },
       "2.11.0": {
         "en": "Added: New 3D-Icons (poolrobot)",
         "de": "Hinzugefügt: Neue 3D-Icons (Poolrobot)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony 3D- (robot worx / gardeny & server)",
         "uk": "Додано: Новий 3D-Icons (robot worx/gardena & server)",
         "zh-cn": "添加: 新建 3D- Icons (robot worx/ gardena & 服务器)"
-      },
-      "2.5.0": {
-        "en": "Added: New 3D-Icons (garden & workshop)\n",
-        "de": "Hinzugefügt: Neue 3D-Icons (Garten & Workshop)\n",
-        "ru": "Новые 3D-иконки (сад и мастерская)\n",
-        "pt": "Adicionado: Novos Ícones 3D (jardim e oficina)\n",
-        "nl": "Toegevoegd: Nieuwe 3D-Icons (tuin & workshop)\n",
-        "fr": "Ajouté : Nouveau 3D-Icons (jardin & atelier)\n",
-        "it": "Aggiunto: New 3D-Icons (giardino & workshop)\n",
-        "es": "Añadido: Nuevos 3D-Icons (garden & workshop)\n",
-        "pl": "Dodano: Nowe ikony 3D- (ogród i warsztat)\n",
-        "uk": "Доданий: Новий 3D-Icons (гарден і майстерня)\n",
-        "zh-cn": "添加:新建3D-Icons(花园和车间)\n"
       }
     },
     "titleLang": {
