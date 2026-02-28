@@ -1,51 +1,51 @@
 {
-  "name": "iobroker.vis-icontwo",
-  "version": "2.11.0",
-  "description": "inventwo Icon Set",
-  "author": "skvarel <skvarel@inventwo.com>",
-  "contributors": [
-    "jkvarel <jkvarel@inventwo.com>",
-    "skvarel <skvarel@inventwo.com>"
-  ],
-  "homepage": "https://github.com/inventwo/ioBroker.vis-icontwo",
-  "license": "MIT",
-  "files": [
-    "admin/",
-    "img/",
-    "www/",
-    "energyIcons/",
-    "io-package.json",
-    "LICENSE",
-    "README.md"
-  ],
-  "keywords": [
-    "ioBroker",
-    "template",
-    "Smart Home",
-    "home automation",
-    "inventwo",
-    "vis",
-    "Icons"
-  ],
-  "readmeFilename": "README.md",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/inventwo/ioBroker.vis-icontwo.git"
-  },
-  "devDependencies": {
-    "@alcalzone/release-script": "^5.0.0",
-    "@alcalzone/release-script-plugin-iobroker": "^5.1.1",
-    "@alcalzone/release-script-plugin-license": "^5.1.1",
-    "@alcalzone/release-script-plugin-manual-review": "^5.1.1"
-  },
-  "scripts": {
-    "test": "echo 'No tests for icon-only adapter'",
-    "release": "release-script",
-    "release-patch": "release-script patch --yes",
-    "release-minor": "release-script minor --yes",
-    "release-major": "release-script major --yes"
-  },
-  "bugs": {
-    "url": "https://github.com/inventwo/ioBroker.vis-icontwo/issues"
-  }
+    "name": "iobroker.vis-icontwo",
+    "version": "2.11.0",
+    "description": "inventwo Icon Set",
+    "author": "skvarel <skvarel@inventwo.com>",
+    "contributors": [
+        "jkvarel <jkvarel@inventwo.com>",
+        "skvarel <skvarel@inventwo.com>"
+    ],
+    "homepage": "https://github.com/inventwo/ioBroker.vis-icontwo",
+    "license": "MIT",
+    "files": [
+        "admin/",
+        "img/",
+        "www/",
+        "energyIcons/",
+        "io-package.json",
+        "LICENSE",
+        "README.md"
+    ],
+    "keywords": [
+        "ioBroker",
+        "template",
+        "Smart Home",
+        "home automation",
+        "inventwo",
+        "vis",
+        "Icons"
+    ],
+    "readmeFilename": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/inventwo/ioBroker.vis-icontwo.git"
+    },
+    "devDependencies": {
+        "@alcalzone/release-script": "^5.1.1",
+        "@alcalzone/release-script-plugin-iobroker": "^5.1.2",
+        "@alcalzone/release-script-plugin-license": "^5.1.1",
+        "@alcalzone/release-script-plugin-manual-review": "^5.1.1"
+    },
+    "scripts": {
+        "test": "echo 'No tests for icon-only adapter'",
+        "release": "release-script",
+        "release-patch": "release-script patch --yes",
+        "release-minor": "release-script minor --yes",
+        "release-major": "release-script major --yes"
+    },
+    "bugs": {
+        "url": "https://github.com/inventwo/ioBroker.vis-icontwo/issues"
+    }
 }
