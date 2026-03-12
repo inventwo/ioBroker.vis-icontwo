@@ -66,6 +66,9 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: Issue detected by repository checker.
+
 ### 2.11.1 (2026-02-28)
 - (skvarel) Fixed: Issue detected by repository checker.
 

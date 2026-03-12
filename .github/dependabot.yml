@@ -8,3 +8,10 @@ updates:
       interval: "weekly"
       timezone: "Europe/Berlin"
     open-pull-requests-limit: 30
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      timezone: "Europe/Berlin"
+    open-pull-requests-limit: 30
