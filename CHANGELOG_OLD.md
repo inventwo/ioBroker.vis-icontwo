@@ -1,4 +1,7 @@
 # Older changes
+## 2.8.0 (2026-02-14)
+- (skvarel) Added: New 3D-Icons (sauna)
+
 ## 2.7.0 (2026-02-14)
 - (skvarel) Added: New 3D-Icons (garage)
 

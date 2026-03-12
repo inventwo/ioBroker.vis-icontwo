@@ -66,7 +66,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.11.2 (2026-03-12)
 - (skvarel) Fixed: Issue detected by repository checker.
 
 ### 2.11.1 (2026-02-28)
@@ -80,9 +80,6 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ### 2.9.0 (2026-02-15)
 - (skvarel) Added: New 3D-Icons (heater)
-
-### 2.8.0 (2026-02-14)
-- (skvarel) Added: New 3D-Icons (sauna)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
