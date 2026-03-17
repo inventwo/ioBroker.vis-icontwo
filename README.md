@@ -9,11 +9,11 @@
 [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-green.svg)](https://www.paypal.com/donate/?hosted_button_id=7W6M3TFZ4W9LW)
 
 
-## Icon Adapter für den ioBroker.vis Adapter
+## Icon adapter for the ioBroker.vis adapter (for VIS-1 and VIS-2)
 
-Ein reiner Icon Adapter für die Visualisierung. 
+A simple icon adapter for your visualization.
 
-Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo Ordner zu finden
+All icons can be found in the vis-icontwo folder via the file manager (at the top level).
 
 #### VIS1:
 
@@ -23,49 +23,42 @@ Alle Icons sind über den Dateimanager (auf der obersten Ebene) im vis-icontwo O
 
 ![Pfad](/img/Screen_VIS2.PNG)
 
----
 
-## Vorschau
 
-Eine kleine Vorschau über den Stil der Icons:
+## Preview
 
-Z.B. 3D-Icons (Teilauswahl) (ab v2.0.0 verfügbar):
+A small preview of the icon style:
+
+E.g. 3D-Icons (partial selection) (Available >v2.0.0):
 
 ![Screenshot](/img/Screen_005.png)
 
-Z.B. Lights (Teilauswahl):
+E.g. Lights (partial selection):
 
 ![Screenshot](/img/Screen_002.png)
 
-Z.B. Rooms (Teilauswahl):
+E.g. Rooms (partial selection):
 
 ![Screenshot](/img/Screen_003.png)
 
-Z.B. Devices (Teilauswahl):
+E.g. Devices (partial selection):
 
 ![Screenshot](/img/Screen_004.png)
 
 
-Eine vollständige Übersicht aller Icons ist hier zu finden (die Ordnerstruktur ist die gleiche, wie im Dateimanager):
+A complete overview of all icons can be found here (the folder structure is the same as in the file manager):
 
 -> https://icontwo.inventwo.com <-
 
----
 
-## Unterstützung
 
-Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen uns über jede Spende.
-
-(Dieser Link führt zu unserem PayPal-Konto und steht in keiner Verbindung zum ioBroker)
-
-[![Spende](/img/spende.png)](https://www.paypal.com/donate/?hosted_button_id=7W6M3TFZ4W9LW)
-
----
-
-## Changelog / Änderungsprotokoll
+## Changelog
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Translated: Readme in english
+
 ### 2.11.2 (2026-03-12)
 - (skvarel) Fixed: Issue detected by repository checker.
 
@@ -86,7 +79,7 @@ Falls Dir unsere Arbeit gefällt und Du uns unterstützen möchtest, wir freuen 
 
 ## License
 
-MIT License (nur in englisch / englisch only)
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -95,19 +88,19 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 ---
 
-Icons from Icons8 https://icons8.com/ 
+Several icons from Icons8 https://icons8.com/ 
 
 Copyright (c) 2025-2026 [jkvarel](https://github.com/jkvarel) und [skvarel](https://github.com/skvarel) von [inventwo](https://github.com/inventwo)
