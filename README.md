@@ -56,7 +56,7 @@ A complete overview of all icons can be found here (the folder structure is the 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.11.3 (2026-03-17)
 - (skvarel) Translated: Readme in english
 
 ### 2.11.2 (2026-03-12)
@@ -70,9 +70,6 @@ A complete overview of all icons can be found here (the folder structure is the 
 
 ### 2.10.0 (2026-02-26)
 - (skvarel) Added: New 3D-Icons (beach)
-
-### 2.9.0 (2026-02-15)
-- (skvarel) Added: New 3D-Icons (heater)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

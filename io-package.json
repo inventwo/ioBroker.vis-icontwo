@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.11.2",
+    "version": "2.11.3",
     "news": {
+      "2.11.3": {
+        "en": "Translated: Readme in english",
+        "de": "Übersetzt: Readme auf Englisch",
+        "ru": "В переводе: Readme на английском",
+        "pt": "Traduzido: Leia-me em inglês",
+        "nl": "Vertaald: Lees mij in het Engels",
+        "fr": "Traduit : Lisez-moi en anglais",
+        "it": "Traduzione: Readme in inglese",
+        "es": "Traducido: Readme in english",
+        "pl": "Tłumaczenie: Readme in English",
+        "uk": "Переклад: Українська",
+        "zh-cn": "翻译 : 用英语读我"
+      },
       "2.11.2": {
         "en": "Fixed: Issue detected by repository checker.",
         "de": "Behoben: Ausgestellt durch Repository Checker.",
@@ -80,19 +93,6 @@
         "pl": "Dodano: nowe ikony 3D- (sauna)",
         "uk": "Доданий: Новий 3D-Icons (сауна)",
         "zh-cn": "添加:新3D-Icons(桑拿)"
-      },
-      "2.7.0": {
-        "en": "Added: New 3D-Icons (garage)",
-        "de": "Hinzugefügt: Neue 3D-Icons (Garage)",
-        "ru": "Новые 3D-иконки (гараж)",
-        "pt": "Adicionado: Novos Ícones 3D (garagem)",
-        "nl": "Toegevoegd: nieuwe 3D-iconen (garage)",
-        "fr": "Ajouté: Nouveaux icônes 3D (garage)",
-        "it": "Aggiunto: New 3D-Icons (garage)",
-        "es": "Añadido: Nuevos 3D-Icons (garage)",
-        "pl": "Dodano: nowe ikony 3D- (garaż)",
-        "uk": "Доданий: Новий 3D-Icons (гараж)",
-        "zh-cn": "添加: 新建 3D- Icons (护栏)"
       }
     },
     "titleLang": {

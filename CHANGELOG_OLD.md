@@ -1,4 +1,7 @@
 # Older changes
+## 2.9.0 (2026-02-15)
+- (skvarel) Added: New 3D-Icons (heater)
+
 ## 2.8.0 (2026-02-14)
 - (skvarel) Added: New 3D-Icons (sauna)
 
