@@ -14,7 +14,9 @@
 
 ---
 
-## A simple icon adapter for your visualization.
+## inventwo icons for the ioBroker.vis adapter (VIS-1 and VIS-2)
+
+A simple icon adapter for your visualization.
 
 
 All icons can be found in the vis-icontwo folder via the file manager (at the top level).
