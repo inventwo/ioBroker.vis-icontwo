@@ -62,6 +62,10 @@ A complete overview of all icons can be found here (the folder structure is the 
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed repo checker issue #818
+
+
 ### 2.11.3 (2026-03-17)
 - (skvarel) Translated: Readme in english
 
