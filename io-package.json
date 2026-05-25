@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.11.3",
+    "version": "2.11.4",
     "news": {
+      "2.11.4": {
+        "en": "Fixed repo checker issue #818",
+        "de": "Fixed Repo Checker Ausgabe #818",
+        "ru": "Фиксированный выпуск чекера репо #818",
+        "pt": "Problema fixo do verificador de repo # 818",
+        "nl": "Probleem met vaste repochecker #818",
+        "fr": "Correction du problème de repo checker #818",
+        "it": "Risostituito numero di truffatore #818",
+        "es": "Número de comprobación de reposo fijo #818",
+        "pl": "Naprawiono kontrolę repo numer 818",
+        "uk": "Виправлено проблему перевірки репо #818",
+        "zh-cn": "固定回购检查器问题# 818"
+      },
       "2.11.3": {
         "en": "Translated: Readme in english",
         "de": "Übersetzt: Readme auf Englisch",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony 3D- (grzejnik)",
         "uk": "Доданий: Новий 3D-Icons (тепловий)",
         "zh-cn": "添加: 新建3D- Icons( 加热器)"
-      },
-      "2.8.0": {
-        "en": "Added: New 3D-Icons (sauna)",
-        "de": "Hinzugefügt: Neue 3D-Icons (sauna)",
-        "ru": "Новые 3D-иконки (сауна)",
-        "pt": "Adicionado: Novos Ícones 3D (sauna)",
-        "nl": "Toegevoegd: Nieuwe 3D-Iconen (sauna)",
-        "fr": "Ajouté : Nouveaux icônes 3D (sauna)",
-        "it": "Aggiunto: New 3D-Icons (sauna)",
-        "es": "Añadido: Nuevos 3D-Icons (sauna)",
-        "pl": "Dodano: nowe ikony 3D- (sauna)",
-        "uk": "Доданий: Новий 3D-Icons (сауна)",
-        "zh-cn": "添加:新3D-Icons(桑拿)"
       }
     },
     "titleLang": {

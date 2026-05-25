@@ -1,4 +1,7 @@
 # Older changes
+## 2.10.0 (2026-02-26)
+- (skvarel) Added: New 3D-Icons (beach)
+
 ## 2.9.0 (2026-02-15)
 - (skvarel) Added: New 3D-Icons (heater)
 
