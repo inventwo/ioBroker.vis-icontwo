@@ -1,161 +1,174 @@
 {
-    "common": {
-        "name": "vis-icontwo",
-        "version": "2.11.4",
-        "news": {
-            "2.11.3": {
-                "en": "Translated: Readme in english",
-                "de": "Übersetzt: Readme auf Englisch",
-                "ru": "В переводе: Readme на английском",
-                "pt": "Traduzido: Leia-me em inglês",
-                "nl": "Vertaald: Lees mij in het Engels",
-                "fr": "Traduit : Lisez-moi en anglais",
-                "it": "Traduzione: Readme in inglese",
-                "es": "Traducido: Readme in english",
-                "pl": "Tłumaczenie: Readme in English",
-                "uk": "Переклад: Українська",
-                "zh-cn": "翻译 : 用英语读我"
-            },
-            "2.11.2": {
-                "en": "Fixed: Issue detected by repository checker.",
-                "de": "Behoben: Ausgestellt durch Repository Checker.",
-                "ru": "Исправлено: проблема, обнаруженная проверкой хранилища.",
-                "pt": "Corrigido: Problema detectado pelo verificador de repositório.",
-                "nl": "Vast: Uitgave gedetecteerd door repository checker.",
-                "fr": "Correction : problème détecté par le vérificateur du dépôt.",
-                "it": "Risolto: Problema rilevato da repository checker.",
-                "es": "Corregido: Problema detectado por repositorio.",
-                "pl": "Naprawiono: Wydanie wykryte przez sprawdzacz repozytorium.",
-                "uk": "Виправлено: Виявлено репозиторійним чекером.",
-                "zh-cn": "固定:由仓库检查器检测到的问题."
-            },
-            "2.11.1": {
-                "en": "Fixed: Issue detected by repository checker.",
-                "de": "Behoben: Ausgestellt durch Repository Checker.",
-                "ru": "Исправлено: проблема, обнаруженная проверкой хранилища.",
-                "pt": "Corrigido: Problema detectado pelo verificador de repositório.",
-                "nl": "Vast: Uitgave gedetecteerd door repository checker.",
-                "fr": "Correction : problème détecté par le vérificateur du dépôt.",
-                "it": "Risolto: Problema rilevato da repository checker.",
-                "es": "Corregido: Problema detectado por repositorio.",
-                "pl": "Naprawiono: Wydanie wykryte przez sprawdzacz repozytorium.",
-                "uk": "Виправлено: Виявлено репозиторійним чекером.",
-                "zh-cn": "固定:由仓库检查器检测到的问题."
-            },
-            "2.11.0": {
-                "en": "Added: New 3D-Icons (poolrobot)",
-                "de": "Hinzugefügt: Neue 3D-Icons (Poolrobot)",
-                "ru": "Новые 3D-иконки (Poolrobot)",
-                "pt": "Adicionado: Novos Ícones 3D (poolrobot)",
-                "nl": "Toegevoegd: Nieuwe 3D-Icons (poolrobot)",
-                "fr": "Ajouté: Nouveaux icônes 3D (poolrobot)",
-                "it": "Aggiunto: New 3D-Icons (poolrobot)",
-                "es": "Añadido: Nuevos 3D-Icons (poolrobot)",
-                "pl": "Dodano: nowe ikony 3D- (poolrobot)",
-                "uk": "Доданий: Новий 3D-Icons (басфор)",
-                "zh-cn": "添加: 新建 3D- Icons (集合机器人)"
-            },
-            "2.10.0": {
-                "en": "Added: New 3D-Icons (beach)",
-                "de": "Hinzugefügt: Neue 3D-Icons (Strand)",
-                "ru": "Новые 3D-иконки (пляж)",
-                "pt": "Adicionado: Novos Ícones 3D (praia)",
-                "nl": "Toegevoegd: Nieuwe 3D-Icons (strand)",
-                "fr": "Ajouté: Nouveaux icônes 3D (plage)",
-                "it": "Aggiunto: New 3D-Icons (beach)",
-                "es": "Añadido: New 3D-Icons (beach)",
-                "pl": "Dodano: Nowe 3D- Ikony (plaża)",
-                "uk": "Доданий: Новий 3D-Icons (beach)",
-                "zh-cn": "添加:新3D-Icons(弹簧)"
-            },
-            "2.9.0": {
-                "en": "Added: New 3D-Icons (heater)",
-                "de": "Hinzugefügt: Neue 3D-Icons (Heizer)",
-                "ru": "Добавлено: Новые 3D-иконки (нагреватель)",
-                "pt": "Adicionado: Novos ícones 3D (aquecedor)",
-                "nl": "Toegevoegd: Nieuwe 3D-Iconen (verwarmer)",
-                "fr": "Ajouté: Nouveaux icônes 3D (chauffeur)",
-                "it": "Aggiunto: New 3D-Icons (riscaldatore)",
-                "es": "Añadido: Nuevos 3D-Icons (calentador)",
-                "pl": "Dodano: Nowe ikony 3D- (grzejnik)",
-                "uk": "Доданий: Новий 3D-Icons (тепловий)",
-                "zh-cn": "添加: 新建3D- Icons( 加热器)"
-            }
-        },
-        "titleLang": {
-            "en": "inventwo Icon Set",
-            "de": "inventwo Icon Set",
-            "ru": "icon Set",
-            "pt": "conjunto de ícones inventwo",
-            "nl": "inventwo Pictogramset",
-            "fr": "set d'icônes inventwo",
-            "it": "inventwo Icon Set",
-            "es": "inventwo Icon Set",
-            "pl": "wymyślony zestaw ikon",
-            "uk": "ввендві іконки Set",
-            "zh-cn": "输入二号图标集"
-        },
-        "desc": {
-            "en": "inventwo Icon Set for ioBroker.vis",
-            "de": "inventwo Icon Set für ioBroker.vis",
-            "ru": "inventwo Icon Set for ioBroker.vis",
-            "pt": "inventando Conjunto de ícones para ioBroker.vis",
-            "nl": "inventwo Icon Set voor ioBroker.vis",
-            "fr": "invendeux Icône pour ioBroker.vis",
-            "it": "inventwo Icon Set per ioBroker.vis",
-            "es": "invento Icon Set para ioBroker.vis",
-            "pl": "wynalazcy Zestaw ikon dla jOBroker.vis",
-            "uk": "ввендва ІоБрокер.vis",
-            "zh-cn": "二号 ioBroker.vis 的图标集"
-        },
-        "authors": [
-            "jkvarel <jkvarel@inventwo.com>",
-            "skvarel <skvarel@inventwo.com>"
-        ],
-        "keywords": [
-            "visualisierung",
-            "home automation",
-            "inventwo",
-            "vis",
-            "icons"
-        ],
-        "licenseInformation": {
-            "license": "MIT",
-            "type": "free"
-        },
-        "platform": "Javascript/Node.js",
-        "icon": "icontwo.png",
-        "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/icontwo.png",
-        "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
-        "loglevel": "info",
-        "restartAdapters": [
-            "vis",
-            "vis-2"
-        ],
-        "singleton": true,
-        "localLinks": {
-            "_default": {
-                "link": "http://icontwo.inventwo.com/"
-            }
-        },
-        "mode": "none",
-        "type": "visualization-icons",
-        "compact": true,
-        "connectionType": "local",
-        "dataSource": "poll",
-        "adminUI": {
-            "config": "none"
-        },
-        "onlyWWW": true,
-        "dependencies": [
-            {
-                "js-controller": ">=6.0.11"
-            }
-        ],
-        "tier": 1
+  "common": {
+    "name": "vis-icontwo",
+    "version": "2.11.5",
+    "news": {
+      "2.11.5": {
+        "en": "Fixed repo checker issue #818",
+        "de": "Fixed Repo Checker Ausgabe #818",
+        "ru": "Фиксированный выпуск чекера репо #818",
+        "pt": "Problema fixo do verificador de repo # 818",
+        "nl": "Probleem met vaste repochecker #818",
+        "fr": "Correction du problème de repo checker #818",
+        "it": "Risostituito numero di truffatore #818",
+        "es": "Número de comprobación de reposo fijo #818",
+        "pl": "Naprawiono kontrolę repo numer 818",
+        "uk": "Виправлено проблему перевірки репо #818",
+        "zh-cn": "固定回购检查器问题# 818"
+      },
+      "2.11.3": {
+        "en": "Translated: Readme in english",
+        "de": "Übersetzt: Readme auf Englisch",
+        "ru": "В переводе: Readme на английском",
+        "pt": "Traduzido: Leia-me em inglês",
+        "nl": "Vertaald: Lees mij in het Engels",
+        "fr": "Traduit : Lisez-moi en anglais",
+        "it": "Traduzione: Readme in inglese",
+        "es": "Traducido: Readme in english",
+        "pl": "Tłumaczenie: Readme in English",
+        "uk": "Переклад: Українська",
+        "zh-cn": "翻译 : 用英语读我"
+      },
+      "2.11.2": {
+        "en": "Fixed: Issue detected by repository checker.",
+        "de": "Behoben: Ausgestellt durch Repository Checker.",
+        "ru": "Исправлено: проблема, обнаруженная проверкой хранилища.",
+        "pt": "Corrigido: Problema detectado pelo verificador de repositório.",
+        "nl": "Vast: Uitgave gedetecteerd door repository checker.",
+        "fr": "Correction : problème détecté par le vérificateur du dépôt.",
+        "it": "Risolto: Problema rilevato da repository checker.",
+        "es": "Corregido: Problema detectado por repositorio.",
+        "pl": "Naprawiono: Wydanie wykryte przez sprawdzacz repozytorium.",
+        "uk": "Виправлено: Виявлено репозиторійним чекером.",
+        "zh-cn": "固定:由仓库检查器检测到的问题."
+      },
+      "2.11.1": {
+        "en": "Fixed: Issue detected by repository checker.",
+        "de": "Behoben: Ausgestellt durch Repository Checker.",
+        "ru": "Исправлено: проблема, обнаруженная проверкой хранилища.",
+        "pt": "Corrigido: Problema detectado pelo verificador de repositório.",
+        "nl": "Vast: Uitgave gedetecteerd door repository checker.",
+        "fr": "Correction : problème détecté par le vérificateur du dépôt.",
+        "it": "Risolto: Problema rilevato da repository checker.",
+        "es": "Corregido: Problema detectado por repositorio.",
+        "pl": "Naprawiono: Wydanie wykryte przez sprawdzacz repozytorium.",
+        "uk": "Виправлено: Виявлено репозиторійним чекером.",
+        "zh-cn": "固定:由仓库检查器检测到的问题."
+      },
+      "2.11.0": {
+        "en": "Added: New 3D-Icons (poolrobot)",
+        "de": "Hinzugefügt: Neue 3D-Icons (Poolrobot)",
+        "ru": "Новые 3D-иконки (Poolrobot)",
+        "pt": "Adicionado: Novos Ícones 3D (poolrobot)",
+        "nl": "Toegevoegd: Nieuwe 3D-Icons (poolrobot)",
+        "fr": "Ajouté: Nouveaux icônes 3D (poolrobot)",
+        "it": "Aggiunto: New 3D-Icons (poolrobot)",
+        "es": "Añadido: Nuevos 3D-Icons (poolrobot)",
+        "pl": "Dodano: nowe ikony 3D- (poolrobot)",
+        "uk": "Доданий: Новий 3D-Icons (басфор)",
+        "zh-cn": "添加: 新建 3D- Icons (集合机器人)"
+      },
+      "2.10.0": {
+        "en": "Added: New 3D-Icons (beach)",
+        "de": "Hinzugefügt: Neue 3D-Icons (Strand)",
+        "ru": "Новые 3D-иконки (пляж)",
+        "pt": "Adicionado: Novos Ícones 3D (praia)",
+        "nl": "Toegevoegd: Nieuwe 3D-Icons (strand)",
+        "fr": "Ajouté: Nouveaux icônes 3D (plage)",
+        "it": "Aggiunto: New 3D-Icons (beach)",
+        "es": "Añadido: New 3D-Icons (beach)",
+        "pl": "Dodano: Nowe 3D- Ikony (plaża)",
+        "uk": "Доданий: Новий 3D-Icons (beach)",
+        "zh-cn": "添加:新3D-Icons(弹簧)"
+      },
+      "2.9.0": {
+        "en": "Added: New 3D-Icons (heater)",
+        "de": "Hinzugefügt: Neue 3D-Icons (Heizer)",
+        "ru": "Добавлено: Новые 3D-иконки (нагреватель)",
+        "pt": "Adicionado: Novos ícones 3D (aquecedor)",
+        "nl": "Toegevoegd: Nieuwe 3D-Iconen (verwarmer)",
+        "fr": "Ajouté: Nouveaux icônes 3D (chauffeur)",
+        "it": "Aggiunto: New 3D-Icons (riscaldatore)",
+        "es": "Añadido: Nuevos 3D-Icons (calentador)",
+        "pl": "Dodano: Nowe ikony 3D- (grzejnik)",
+        "uk": "Доданий: Новий 3D-Icons (тепловий)",
+        "zh-cn": "添加: 新建3D- Icons( 加热器)"
+      }
     },
-    "native": {},
-    "objects": [],
-    "instanceObjects": []
+    "titleLang": {
+      "en": "inventwo Icon Set",
+      "de": "inventwo Icon Set",
+      "ru": "icon Set",
+      "pt": "conjunto de ícones inventwo",
+      "nl": "inventwo Pictogramset",
+      "fr": "set d'icônes inventwo",
+      "it": "inventwo Icon Set",
+      "es": "inventwo Icon Set",
+      "pl": "wymyślony zestaw ikon",
+      "uk": "ввендві іконки Set",
+      "zh-cn": "输入二号图标集"
+    },
+    "desc": {
+      "en": "inventwo Icon Set for ioBroker.vis",
+      "de": "inventwo Icon Set für ioBroker.vis",
+      "ru": "inventwo Icon Set for ioBroker.vis",
+      "pt": "inventando Conjunto de ícones para ioBroker.vis",
+      "nl": "inventwo Icon Set voor ioBroker.vis",
+      "fr": "invendeux Icône pour ioBroker.vis",
+      "it": "inventwo Icon Set per ioBroker.vis",
+      "es": "invento Icon Set para ioBroker.vis",
+      "pl": "wynalazcy Zestaw ikon dla jOBroker.vis",
+      "uk": "ввендва ІоБрокер.vis",
+      "zh-cn": "二号 ioBroker.vis 的图标集"
+    },
+    "authors": [
+      "jkvarel <jkvarel@inventwo.com>",
+      "skvarel <skvarel@inventwo.com>"
+    ],
+    "keywords": [
+      "visualisierung",
+      "home automation",
+      "inventwo",
+      "vis",
+      "icons"
+    ],
+    "licenseInformation": {
+      "license": "MIT",
+      "type": "free"
+    },
+    "platform": "Javascript/Node.js",
+    "icon": "icontwo.png",
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-icontwo/master/admin/icontwo.png",
+    "readme": "https://github.com/inventwo/ioBroker.vis-icontwo/blob/master/README.md",
+    "loglevel": "info",
+    "restartAdapters": [
+      "vis",
+      "vis-2"
+    ],
+    "singleton": true,
+    "localLinks": {
+      "_default": {
+        "link": "http://icontwo.inventwo.com/"
+      }
+    },
+    "mode": "none",
+    "type": "visualization-icons",
+    "compact": true,
+    "connectionType": "local",
+    "dataSource": "poll",
+    "adminUI": {
+      "config": "none"
+    },
+    "onlyWWW": true,
+    "dependencies": [
+      {
+        "js-controller": ">=6.0.11"
+      }
+    ],
+    "tier": 1
+  },
+  "native": {},
+  "objects": [],
+  "instanceObjects": []
 }
