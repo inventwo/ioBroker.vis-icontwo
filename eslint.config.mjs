@@ -1,19 +1,19 @@
-import config from '@iobroker/eslint-config';
+import config from "@iobroker/eslint-config";
 
 export default [
-    ...config,
-    {
-        languageOptions: {
-            parserOptions: {
-                projectService: {
-                    allowDefaultProject: ['*.js', '*.mjs'],
-                },
-                tsconfigRootDir: import.meta.dirname,
-            },
+  ...config,
+  {
+    languageOptions: {
+      parserOptions: {
+        projectService: {
+          allowDefaultProject: ["*.js", "*.mjs"],
         },
+        tsconfigRootDir: import.meta.dirname,
+      },
     },
-    {
-        // specify files to exclude from linting here
-        ignores: ['admin/', 'www/', 'img/', 'node_modules/'],
-    },
+  },
+  {
+    // specify files to exclude from linting here
+    ignores: ["admin/", "www/", "img/", "node_modules/"],
+  },
 ];
