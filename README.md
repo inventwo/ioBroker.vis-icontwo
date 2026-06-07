@@ -62,7 +62,7 @@ A complete overview of all icons can be found here (the folder structure is the 
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.11.6 (2026-06-07)
 - (skvarel) Fixed repo checker issue #820
 
 ### 2.11.5 (2026-05-25)
@@ -76,9 +76,6 @@ A complete overview of all icons can be found here (the folder structure is the 
 
 ### 2.11.1 (2026-02-28)
 - (skvarel) Fixed: Issue detected by repository checker.
-
-### 2.11.0 (2026-02-26)
-- (skvarel) Added: New 3D-Icons (poolrobot)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

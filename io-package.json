@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-icontwo",
-    "version": "2.11.5",
+    "version": "2.11.6",
     "news": {
+      "2.11.6": {
+        "en": "Fixed repo checker issue #820",
+        "de": "Fixed Repo Checker Ausgabe #820",
+        "ru": "Проблема проверки РЕПО #820",
+        "pt": "Problema fixo do verificador de repo # 820",
+        "nl": "Probleem met vaste repochecker #820",
+        "fr": "Correction de l'émission de repo checker #820",
+        "it": "Risolto numero di ripieno checker #820",
+        "es": "Número de comprobación de reposo fijo #820",
+        "pl": "Naprawiono kontrolę repo numer 820",
+        "uk": "Виправлено проблему перевірки репо #820",
+        "zh-cn": "固定回购检查器问题# 820"
+      },
       "2.11.5": {
         "en": "Fixed repo checker issue #818",
         "de": "Fixed Repo Checker Ausgabe #818",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe 3D- Ikony (plaża)",
         "uk": "Доданий: Новий 3D-Icons (beach)",
         "zh-cn": "添加:新3D-Icons(弹簧)"
-      },
-      "2.9.0": {
-        "en": "Added: New 3D-Icons (heater)",
-        "de": "Hinzugefügt: Neue 3D-Icons (Heizer)",
-        "ru": "Добавлено: Новые 3D-иконки (нагреватель)",
-        "pt": "Adicionado: Novos ícones 3D (aquecedor)",
-        "nl": "Toegevoegd: Nieuwe 3D-Iconen (verwarmer)",
-        "fr": "Ajouté: Nouveaux icônes 3D (chauffeur)",
-        "it": "Aggiunto: New 3D-Icons (riscaldatore)",
-        "es": "Añadido: Nuevos 3D-Icons (calentador)",
-        "pl": "Dodano: Nowe ikony 3D- (grzejnik)",
-        "uk": "Доданий: Новий 3D-Icons (тепловий)",
-        "zh-cn": "添加: 新建3D- Icons( 加热器)"
       }
     },
     "titleLang": {

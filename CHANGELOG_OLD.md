@@ -1,4 +1,7 @@
 # Older changes
+## 2.11.0 (2026-02-26)
+- (skvarel) Added: New 3D-Icons (poolrobot)
+
 ## 2.10.0 (2026-02-26)
 - (skvarel) Added: New 3D-Icons (beach)
 
