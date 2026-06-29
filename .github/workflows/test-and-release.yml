@@ -29,11 +29,10 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - uses: ioBroker/testing-action-check@v2.0.1
+            - uses: ioBroker/testing-action-check@v2
               with:
                   node-version: '24.x'
                   lint: true
-                  test-command: 'false'
 
     # Runs adapter tests on all supported node versions and OSes
     adapter-tests:

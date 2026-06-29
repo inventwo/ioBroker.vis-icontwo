@@ -14,6 +14,6 @@ export default [
     },
     {
         // specify files to exclude from linting here
-        ignores: ['admin/', 'www/', 'img/', 'node_modules/'],
+        ignores: ['admin/', 'www/', 'img/', 'test/', 'node_modules/'],
     },
 ];
